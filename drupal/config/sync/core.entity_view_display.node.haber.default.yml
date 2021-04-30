@@ -12,6 +12,7 @@ dependencies:
     - field.field.node.haber.field_haber_kategorisi
     - field.field.node.haber.field_mansete_tasi
     - field.field.node.haber.field_one_cikan_gorsel
+    - field.field.node.haber.field_one_cikan_icerik
     - image.style.manset_resim_stili_760x430
     - node.type.haber
   module:
@@ -78,6 +79,16 @@ content:
       image_link: ''
     third_party_settings: {  }
     type: image
+    region: content
+  field_one_cikan_icerik:
+    weight: 8
+    label: above
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {  }
+    type: boolean
     region: content
   links:
     weight: 0

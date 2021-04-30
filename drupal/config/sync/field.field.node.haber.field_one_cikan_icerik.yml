@@ -1,0 +1,23 @@
+uuid: fd31502c-633b-4180-9266-ca1d84c6cdad
+langcode: tr
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_one_cikan_icerik
+    - node.type.haber
+id: node.haber.field_one_cikan_icerik
+field_name: field_one_cikan_icerik
+entity_type: node
+bundle: haber
+label: 'Öne Çıkan İçerik'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: Evet
+  off_label: Hayır
+field_type: boolean
