@@ -1,0 +1,22 @@
+uuid: 8398a4ea-a7bf-49ac-a953-f6578db58ee7
+langcode: tr
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - borsa-egitimi
+      - footer
+      - main
+    parent: 'main:'
+_core:
+  default_config_hash: KuyA4NHPXcmKAjRtwa0vQc2ZcyrUJy6IlS2TAyMNRbc
+name: 'Temel sayfa'
+type: page
+description: '<em>Temel sayfa</em>ları, ''Hakkımızda'' sayfası gibi sabit içerikler için kullanın.'
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: false

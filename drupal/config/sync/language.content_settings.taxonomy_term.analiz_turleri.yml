@@ -1,0 +1,11 @@
+uuid: 26afb0eb-345a-49d8-9c22-581945ca4971
+langcode: tr
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.analiz_turleri
+id: taxonomy_term.analiz_turleri
+target_entity_type_id: taxonomy_term
+target_bundle: analiz_turleri
+default_langcode: site_default
+language_alterable: false

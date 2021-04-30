@@ -1,0 +1,12 @@
+uuid: 0584d8eb-c703-4486-a206-865f71053d8e
+langcode: tr
+status: true
+dependencies:
+  module:
+    - user
+_core:
+  default_config_hash: 71CSAr_LNPcgu6D6jI4INl1KATkahmeyUFBETAWya8g
+id: user.compact
+label: Sade
+targetEntityType: user
+cache: true

@@ -1,0 +1,23 @@
+uuid: 09557758-0c02-4b25-b693-69b99de59619
+langcode: tr
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_yazi_alani
+    - paragraphs.paragraphs_type.yazi_alani
+  module:
+    - text
+id: paragraph.yazi_alani.field_yazi_alani
+field_name: field_yazi_alani
+entity_type: paragraph
+bundle: yazi_alani
+label: 'Yazı Alanı'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: true
+  required_summary: false
+field_type: text_with_summary

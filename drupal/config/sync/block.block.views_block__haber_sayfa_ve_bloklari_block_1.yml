@@ -1,0 +1,30 @@
+uuid: 2f7d155d-ca17-4c27-b43b-e21ed8596201
+langcode: tr
+status: true
+dependencies:
+  config:
+    - views.view.haber_sayfa_ve_bloklari
+  module:
+    - system
+    - views
+  theme:
+    - conference_lite
+id: views_block__haber_sayfa_ve_bloklari_block_1
+theme: conference_lite
+region: content
+weight: -8
+provider: null
+plugin: 'views_block:haber_sayfa_ve_bloklari-block_1'
+settings:
+  id: 'views_block:haber_sayfa_ve_bloklari-block_1'
+  label: ''
+  provider: views
+  label_display: visible
+  views_label: ''
+  items_per_page: none
+visibility:
+  request_path:
+    id: request_path
+    pages: '<front>'
+    negate: false
+    context_mapping: {  }

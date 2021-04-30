@@ -1,0 +1,15 @@
+uuid: 3cb26ae3-fd74-4df8-b223-e69926f85cf2
+langcode: tr
+status: true
+dependencies: {  }
+name: manset_2_resim_stili_380x430
+label: 'Manset 2 Resim Stili 380x430'
+effects:
+  414ec38e-2960-45c8-9d4a-026a55f8a8b3:
+    uuid: 414ec38e-2960-45c8-9d4a-026a55f8a8b3
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 380
+      height: 430
+      anchor: center-center

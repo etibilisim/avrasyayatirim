@@ -1,0 +1,28 @@
+uuid: e8aa4258-1c06-4262-adee-c3dcca2fa49a
+langcode: tr
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.analiz.field_analiz_turu
+    - field.field.node.analiz.field_one_cikan_gorsel
+    - field.field.node.analiz.field_yazi_icerigi
+    - node.type.analiz
+  module:
+    - user
+id: node.analiz.teaser
+targetEntityType: node
+bundle: analiz
+mode: teaser
+content:
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden:
+  addtoany: true
+  field_analiz_turu: true
+  field_one_cikan_gorsel: true
+  field_yazi_icerigi: true
+  langcode: true

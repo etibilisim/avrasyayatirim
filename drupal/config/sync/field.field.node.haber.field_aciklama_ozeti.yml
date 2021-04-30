@@ -1,0 +1,21 @@
+uuid: 6be5fbc5-9b22-44b9-b2c2-ec0612975973
+langcode: tr
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_aciklama_ozeti
+    - node.type.haber
+  module:
+    - text
+id: node.haber.field_aciklama_ozeti
+field_name: field_aciklama_ozeti
+entity_type: node
+bundle: haber
+label: 'Açıklama Özeti'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

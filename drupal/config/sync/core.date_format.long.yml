@@ -1,0 +1,10 @@
+uuid: b475b1a7-9114-4edc-b861-fa53a3bad467
+langcode: tr
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: og8sWXhBuHbLMw3CoiBEZjgqSyhFBFmcbUW_wLcfNbo
+id: long
+label: 'Varsayılan uzun tarih'
+locked: false
+pattern: 'l, j F Y - H:i'

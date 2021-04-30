@@ -1,0 +1,29 @@
+uuid: 0d26140b-b0cc-4cc0-ab2f-ce2c0abb5172
+langcode: tr
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_analiz_turu
+    - node.type.analiz
+    - taxonomy.vocabulary.analiz_turleri
+id: node.analiz.field_analiz_turu
+field_name: field_analiz_turu
+entity_type: node
+bundle: analiz
+label: 'Analiz Türü'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      analiz_turleri: analiz_turleri
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

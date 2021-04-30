@@ -1,0 +1,25 @@
+uuid: 43fc6e3a-8d36-47ea-9db5-ea39991cdc10
+langcode: tr
+status: true
+dependencies:
+  config:
+    - views.view.gosterim_sayaci
+  module:
+    - views
+  theme:
+    - conference_lite
+id: views_block__gosterim_sayaci_block_1
+theme: conference_lite
+region: content
+weight: 0
+provider: null
+plugin: 'views_block:gosterim_sayaci-block_1'
+settings:
+  id: 'views_block:gosterim_sayaci-block_1'
+  label: ''
+  provider: views
+  label_display: visible
+  views_label: ''
+  items_per_page: none
+  context_mapping: {  }
+visibility: {  }

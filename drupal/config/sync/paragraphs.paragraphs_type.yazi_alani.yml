@@ -1,0 +1,10 @@
+uuid: 6938a26b-67a1-44ba-8779-e8b6d005be09
+langcode: tr
+status: true
+dependencies: {  }
+id: yazi_alani
+label: 'Yazı Alanı'
+icon_uuid: null
+icon_default: null
+description: ''
+behavior_plugins: {  }

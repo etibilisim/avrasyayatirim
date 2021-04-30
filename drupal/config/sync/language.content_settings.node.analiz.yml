@@ -1,0 +1,11 @@
+uuid: 2b6f5300-3f8e-426e-9632-70cd4177ecca
+langcode: tr
+status: true
+dependencies:
+  config:
+    - node.type.analiz
+id: node.analiz
+target_entity_type_id: node
+target_bundle: analiz
+default_langcode: site_default
+language_alterable: false

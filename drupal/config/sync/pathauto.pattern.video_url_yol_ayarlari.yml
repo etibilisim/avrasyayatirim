@@ -1,0 +1,22 @@
+uuid: af19076d-4726-4fe0-8da2-57e96ef46b0f
+langcode: tr
+status: true
+dependencies:
+  module:
+    - node
+id: video_url_yol_ayarlari
+label: 'Video URL Yol Ayarlari'
+type: 'canonical_entities:node'
+pattern: 'video/[node:title]'
+selection_criteria:
+  682df1e0-2d27-49d5-b6bd-f22ffcd4bceb:
+    id: node_type
+    bundles:
+      video_icerik: video_icerik
+    negate: false
+    context_mapping:
+      node: node
+    uuid: 682df1e0-2d27-49d5-b6bd-f22ffcd4bceb
+selection_logic: and
+weight: -5
+relationships: {  }

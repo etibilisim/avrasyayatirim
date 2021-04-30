@@ -1,0 +1,56 @@
+uuid: 875da72b-693b-4651-a3d0-e5001ba22e26
+langcode: tr
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_yazi_icerigi
+    - node.type.analiz
+    - paragraphs.paragraphs_type.foto_galeri
+    - paragraphs.paragraphs_type.orta_gorsel
+    - paragraphs.paragraphs_type.sag_gorsel
+    - paragraphs.paragraphs_type.sol_gorsel
+    - paragraphs.paragraphs_type.video_url
+    - paragraphs.paragraphs_type.yazi_alani
+  module:
+    - entity_reference_revisions
+id: node.analiz.field_yazi_icerigi
+field_name: field_yazi_icerigi
+entity_type: node
+bundle: analiz
+label: 'Yazı İçeriği'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:paragraph'
+  handler_settings:
+    negate: 0
+    target_bundles:
+      foto_galeri: foto_galeri
+      orta_gorsel: orta_gorsel
+      sag_gorsel: sag_gorsel
+      sol_gorsel: sol_gorsel
+      video_url: video_url
+      yazi_alani: yazi_alani
+    target_bundles_drag_drop:
+      foto_galeri:
+        enabled: true
+        weight: 7
+      orta_gorsel:
+        enabled: true
+        weight: 8
+      sag_gorsel:
+        enabled: true
+        weight: 9
+      sol_gorsel:
+        enabled: true
+        weight: 10
+      video_url:
+        enabled: true
+        weight: 11
+      yazi_alani:
+        enabled: true
+        weight: 12
+field_type: entity_reference_revisions

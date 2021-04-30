@@ -1,0 +1,30 @@
+uuid: ce97abf0-b3d0-44b4-ba0d-4cc0b624716a
+langcode: tr
+status: true
+dependencies:
+  config:
+    - views.view.analiz_grid
+  module:
+    - system
+    - views
+  theme:
+    - conference_lite
+id: views_block__analiz_grid_block_2
+theme: conference_lite
+region: featured_top
+weight: -12
+provider: null
+plugin: 'views_block:analiz_grid-block_2'
+settings:
+  id: 'views_block:analiz_grid-block_2'
+  label: ''
+  provider: views
+  label_display: visible
+  views_label: ''
+  items_per_page: none
+visibility:
+  request_path:
+    id: request_path
+    pages: '<front>'
+    negate: false
+    context_mapping: {  }

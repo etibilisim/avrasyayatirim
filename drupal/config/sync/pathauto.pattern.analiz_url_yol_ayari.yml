@@ -1,0 +1,22 @@
+uuid: 864383e3-f102-4486-94f4-83cc21160075
+langcode: tr
+status: true
+dependencies:
+  module:
+    - node
+id: analiz_url_yol_ayari
+label: 'Analiz URL Yol Ayarı'
+type: 'canonical_entities:node'
+pattern: 'analiz/[node:title]'
+selection_criteria:
+  5d93230b-728c-4c72-9726-d2f86df94c92:
+    id: node_type
+    bundles:
+      analiz: analiz
+    negate: false
+    context_mapping:
+      node: node
+    uuid: 5d93230b-728c-4c72-9726-d2f86df94c92
+selection_logic: and
+weight: -5
+relationships: {  }

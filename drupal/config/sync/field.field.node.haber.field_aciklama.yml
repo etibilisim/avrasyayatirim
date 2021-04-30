@@ -1,0 +1,56 @@
+uuid: ba727d44-1fd6-45af-aea1-19ac1d84c3e8
+langcode: tr
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_aciklama
+    - node.type.haber
+    - paragraphs.paragraphs_type.foto_galeri
+    - paragraphs.paragraphs_type.orta_gorsel
+    - paragraphs.paragraphs_type.sag_gorsel
+    - paragraphs.paragraphs_type.sol_gorsel
+    - paragraphs.paragraphs_type.video_url
+    - paragraphs.paragraphs_type.yazi_alani
+  module:
+    - entity_reference_revisions
+id: node.haber.field_aciklama
+field_name: field_aciklama
+entity_type: node
+bundle: haber
+label: Açıklama
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:paragraph'
+  handler_settings:
+    negate: 0
+    target_bundles:
+      video_url: video_url
+      orta_gorsel: orta_gorsel
+      yazi_alani: yazi_alani
+      foto_galeri: foto_galeri
+      sag_gorsel: sag_gorsel
+      sol_gorsel: sol_gorsel
+    target_bundles_drag_drop:
+      video_url:
+        enabled: true
+        weight: 5
+      orta_gorsel:
+        enabled: true
+        weight: 6
+      yazi_alani:
+        enabled: true
+        weight: 6
+      foto_galeri:
+        enabled: true
+        weight: 7
+      sag_gorsel:
+        enabled: true
+        weight: 7
+      sol_gorsel:
+        enabled: true
+        weight: 8
+field_type: entity_reference_revisions

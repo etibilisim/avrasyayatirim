@@ -1,0 +1,26 @@
+uuid: 1346d9ff-9dcf-4cc0-8862-da300d011430
+langcode: tr
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.orta_gorsel.field_orta_gorsel
+    - image.style.thumbnail
+    - paragraphs.paragraphs_type.orta_gorsel
+  module:
+    - image
+id: paragraph.orta_gorsel.default
+targetEntityType: paragraph
+bundle: orta_gorsel
+mode: default
+content:
+  field_orta_gorsel:
+    weight: 0
+    settings:
+      progress_indicator: throbber
+      preview_image_style: thumbnail
+    third_party_settings: {  }
+    type: image_image
+    region: content
+hidden:
+  created: true
+  status: true

@@ -1,0 +1,26 @@
+uuid: b9b57e30-1f33-407a-9bff-8cf3890aff6b
+langcode: tr
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.sag_gorsel.field_sag_gorsel
+    - image.style.thumbnail
+    - paragraphs.paragraphs_type.sag_gorsel
+  module:
+    - image
+id: paragraph.sag_gorsel.default
+targetEntityType: paragraph
+bundle: sag_gorsel
+mode: default
+content:
+  field_sag_gorsel:
+    weight: 0
+    settings:
+      progress_indicator: throbber
+      preview_image_style: thumbnail
+    third_party_settings: {  }
+    type: image_image
+    region: content
+hidden:
+  created: true
+  status: true

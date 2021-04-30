@@ -1,0 +1,40 @@
+uuid: e0500041-370c-4e0b-8129-548a64483389
+langcode: tr
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.haber.field_aciklama
+    - field.field.node.haber.field_aciklama_ozeti
+    - field.field.node.haber.field_altina_etkisi
+    - field.field.node.haber.field_borsaya_etkisi
+    - field.field.node.haber.field_dovize_etkisi
+    - field.field.node.haber.field_etiketler
+    - field.field.node.haber.field_haber_kategorisi
+    - field.field.node.haber.field_mansete_tasi
+    - field.field.node.haber.field_one_cikan_gorsel
+    - node.type.haber
+  module:
+    - user
+id: node.haber.teaser
+targetEntityType: node
+bundle: haber
+mode: teaser
+content:
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden:
+  addtoany: true
+  field_aciklama: true
+  field_aciklama_ozeti: true
+  field_altina_etkisi: true
+  field_borsaya_etkisi: true
+  field_dovize_etkisi: true
+  field_etiketler: true
+  field_haber_kategorisi: true
+  field_mansete_tasi: true
+  field_one_cikan_gorsel: true
+  langcode: true

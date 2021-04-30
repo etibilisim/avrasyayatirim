@@ -1,0 +1,10 @@
+uuid: 0497beba-f793-40ad-8eb2-c7f055bb6b14
+langcode: tr
+status: true
+dependencies: {  }
+id: sag_gorsel
+label: 'Sağ Görsel'
+icon_uuid: null
+icon_default: null
+description: ''
+behavior_plugins: {  }

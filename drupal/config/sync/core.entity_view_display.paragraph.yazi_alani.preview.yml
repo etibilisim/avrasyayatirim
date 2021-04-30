@@ -1,0 +1,29 @@
+uuid: 0e9121ef-0890-4609-b637-b7ce7ebe9cfd
+langcode: tr
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.paragraph.preview
+    - field.field.paragraph.yazi_alani.field_yazi_alani
+    - paragraphs.paragraphs_type.yazi_alani
+  module:
+    - layout_builder
+    - text
+third_party_settings:
+  layout_builder:
+    allow_custom: false
+    enabled: false
+id: paragraph.yazi_alani.preview
+targetEntityType: paragraph
+bundle: yazi_alani
+mode: preview
+content:
+  field_yazi_alani:
+    weight: 0
+    label: hidden
+    settings:
+      trim_length: 300
+    third_party_settings: {  }
+    type: text_summary_or_trimmed
+    region: content
+hidden: {  }

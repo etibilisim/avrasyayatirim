@@ -1,0 +1,30 @@
+uuid: be674a76-f311-44f3-9b61-8e4407f52462
+langcode: tr
+status: true
+dependencies:
+  config:
+    - views.view.video_arsivi
+  module:
+    - system
+    - views
+  theme:
+    - conference_lite
+id: views_block__video_arsivi_block_1
+theme: conference_lite
+region: featured
+weight: 0
+provider: null
+plugin: 'views_block:video_arsivi-block_1'
+settings:
+  id: 'views_block:video_arsivi-block_1'
+  label: ''
+  provider: views
+  label_display: visible
+  views_label: ''
+  items_per_page: none
+visibility:
+  request_path:
+    id: request_path
+    pages: '<front>'
+    negate: false
+    context_mapping: {  }

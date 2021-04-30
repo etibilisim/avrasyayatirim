@@ -1,0 +1,21 @@
+uuid: e851acbd-7361-4af5-a50f-928e8649030a
+langcode: tr
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_dovize_etkisi
+    - node.type.haber
+  module:
+    - text
+id: node.haber.field_dovize_etkisi
+field_name: field_dovize_etkisi
+entity_type: node
+bundle: haber
+label: 'Dövize Etkisi'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

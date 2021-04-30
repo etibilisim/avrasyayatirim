@@ -1,0 +1,15 @@
+uuid: a0d60a2a-d843-4670-94c0-6501d0f8b525
+langcode: tr
+status: true
+dependencies: {  }
+name: grid_resim_450x255
+label: 'Grid Resim 450x255'
+effects:
+  8f421b92-73f3-40ff-9434-f58070314532:
+    uuid: 8f421b92-73f3-40ff-9434-f58070314532
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 450
+      height: 255
+      anchor: center-center

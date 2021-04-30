@@ -1,0 +1,10 @@
+uuid: df14ee7b-990d-47bb-8808-c585441513e0
+langcode: tr
+status: true
+dependencies: {  }
+id: video_url
+label: 'Video URL'
+icon_uuid: null
+icon_default: null
+description: ''
+behavior_plugins: {  }

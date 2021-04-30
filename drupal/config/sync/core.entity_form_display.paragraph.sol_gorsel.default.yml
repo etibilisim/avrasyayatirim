@@ -1,0 +1,26 @@
+uuid: 6e9290f8-8197-4825-b090-165d0c3f476e
+langcode: tr
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.sol_gorsel.field_sol_gorsel
+    - image.style.thumbnail
+    - paragraphs.paragraphs_type.sol_gorsel
+  module:
+    - image
+id: paragraph.sol_gorsel.default
+targetEntityType: paragraph
+bundle: sol_gorsel
+mode: default
+content:
+  field_sol_gorsel:
+    weight: 0
+    settings:
+      progress_indicator: throbber
+      preview_image_style: thumbnail
+    third_party_settings: {  }
+    type: image_image
+    region: content
+hidden:
+  created: true
+  status: true

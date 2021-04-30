@@ -1,0 +1,25 @@
+uuid: 9a98ad70-b172-4476-b062-f43d1d8d534a
+langcode: tr
+status: true
+dependencies:
+  config:
+    - system.menu.main
+  module:
+    - system
+  theme:
+    - conference_lite
+id: mainnavigation_2
+theme: conference_lite
+region: hidden_blocks_collection
+weight: -8
+provider: null
+plugin: 'system_menu_block:main'
+settings:
+  id: 'system_menu_block:main'
+  label: 'Main navigation'
+  provider: system
+  label_display: '0'
+  level: 1
+  depth: 0
+  expand_all_items: true
+visibility: {  }

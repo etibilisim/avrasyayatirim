@@ -1,0 +1,91 @@
+uuid: b6690c13-dbeb-4002-a497-6a69f398558c
+langcode: tr
+status: true
+dependencies:
+  config:
+    - field.field.node.haber.field_aciklama
+    - field.field.node.haber.field_aciklama_ozeti
+    - field.field.node.haber.field_altina_etkisi
+    - field.field.node.haber.field_borsaya_etkisi
+    - field.field.node.haber.field_dovize_etkisi
+    - field.field.node.haber.field_etiketler
+    - field.field.node.haber.field_haber_kategorisi
+    - field.field.node.haber.field_mansete_tasi
+    - field.field.node.haber.field_one_cikan_gorsel
+    - image.style.manset_resim_stili_760x430
+    - node.type.haber
+  module:
+    - entity_reference_revisions
+    - image
+    - text
+    - user
+id: node.haber.default
+targetEntityType: node
+bundle: haber
+mode: default
+content:
+  field_aciklama:
+    type: entity_reference_revisions_entity_view
+    weight: 2
+    label: hidden
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    region: content
+  field_altina_etkisi:
+    weight: 5
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: content
+  field_borsaya_etkisi:
+    weight: 3
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: content
+  field_dovize_etkisi:
+    weight: 4
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: content
+  field_etiketler:
+    weight: 7
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    type: entity_reference_label
+    region: content
+  field_haber_kategorisi:
+    weight: 6
+    label: inline
+    settings:
+      link: false
+    third_party_settings: {  }
+    type: entity_reference_label
+    region: content
+  field_one_cikan_gorsel:
+    weight: 1
+    label: hidden
+    settings:
+      image_style: manset_resim_stili_760x430
+      image_link: ''
+    third_party_settings: {  }
+    type: image
+    region: content
+  links:
+    weight: 0
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden:
+  addtoany: true
+  field_aciklama_ozeti: true
+  field_mansete_tasi: true
+  langcode: true

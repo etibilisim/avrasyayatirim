@@ -1,0 +1,3961 @@
+taxonomies:
+  analiz_turleri:
+    -
+      vid: analiz_turleri
+      tid: '38'
+      langcode: tr
+      name: 'Altın Analizi'
+      description__value: null
+      description__format: null
+      weight: '2'
+      parent: '0'
+      uuid: 548ee467-692c-4d43-a465-acf483e57c6e
+    -
+      vid: analiz_turleri
+      tid: '40'
+      langcode: tr
+      name: 'Bilanço Analizi'
+      description__value: null
+      description__format: null
+      weight: '4'
+      parent: '0'
+      uuid: fb3d0ea8-2a81-4b14-94dc-735e4255ee2d
+    -
+      vid: analiz_turleri
+      tid: '36'
+      langcode: tr
+      name: 'Borsa Analizi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: a9a053f3-bf2c-4c12-b091-3d202a152e6a
+    -
+      vid: analiz_turleri
+      tid: '37'
+      langcode: tr
+      name: 'Döviz Analizi'
+      description__value: null
+      description__format: null
+      weight: '1'
+      parent: '0'
+      uuid: c69407f2-52f7-454b-a638-42a57baf883b
+    -
+      vid: analiz_turleri
+      tid: '39'
+      langcode: tr
+      name: 'Teknik Analiz'
+      description__value: null
+      description__format: null
+      weight: '3'
+      parent: '0'
+      uuid: cc6cd4ef-68b2-481a-b85a-45cb648638c6
+  haber_kategorisi:
+    -
+      vid: haber_kategorisi
+      tid: '2'
+      langcode: tr
+      name: Ekonomi
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 3549241b-35f8-4ef8-bc65-8accd10d2c42
+    -
+      vid: haber_kategorisi
+      tid: '1'
+      langcode: tr
+      name: Siyaset
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: b97d7a22-da08-42fa-99b6-00c6c6840007
+  tags:
+    -
+      vid: tags
+      tid: '262'
+      langcode: tr
+      name: '128 milyar dolar'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 6c8040c0-2f30-47b8-ad83-fe99d2e6fc77
+    -
+      vid: tags
+      tid: '316'
+      langcode: tr
+      name: '1915 Olayları'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: fd5e3221-5a52-4569-9d78-3f62ef0257ce
+    -
+      vid: tags
+      tid: '297'
+      langcode: tr
+      name: '23 nisan'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 1c74fb75-8613-425f-9a79-b0125007e418
+    -
+      vid: tags
+      tid: '62'
+      langcode: tr
+      name: AB
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: c58a8863-8b1b-44aa-968f-e492ed4f235e
+    -
+      vid: tags
+      tid: '202'
+      langcode: tr
+      name: 'ab türkiye ilişkileri'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 2fcf1f8b-c938-4148-967b-257a8a280e42
+    -
+      vid: tags
+      tid: '49'
+      langcode: tr
+      name: abd
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: f91db61d-e2c6-4b0e-9d61-da6eccc07252
+    -
+      vid: tags
+      tid: '249'
+      langcode: tr
+      name: 'abd dış politikası'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 1e5ee137-f127-45e2-8e32-22ffa60a1237
+    -
+      vid: tags
+      tid: '176'
+      langcode: tr
+      name: 'ABD ek teşvik paketi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 4ba14e91-a47c-4cdd-9df5-dd457bf98dc3
+    -
+      vid: tags
+      tid: '166'
+      langcode: tr
+      name: 'abd ekonomisi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 2dd0d6cb-c07d-4e48-960a-55f342146000
+    -
+      vid: tags
+      tid: '179'
+      langcode: tr
+      name: 'abd işsizlik verileri'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: babfb8c6-4923-4813-adb6-9f917a508187
+    -
+      vid: tags
+      tid: '287'
+      langcode: tr
+      name: 'ABD Tahvilleri'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 8246114b-6470-4f77-9271-5dcc08fc209e
+    -
+      vid: tags
+      tid: '112'
+      langcode: tr
+      name: 'abd teşvik paketi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: e40cf725-4008-489c-9a3c-da43c2c2c0d1
+    -
+      vid: tags
+      tid: '170'
+      langcode: tr
+      name: 'ABD Türkiye ilişkileri'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 9ddd40d3-17cc-4a26-b67e-148b28dfbeb8
+    -
+      vid: tags
+      tid: '149'
+      langcode: tr
+      name: 'ABD''li yatırımcı'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: f5ce6354-b0cf-4ec8-ab7b-024585e87f37
+    -
+      vid: tags
+      tid: '188'
+      langcode: tr
+      name: 'Abdurrahman Yıldırım'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 58f40267-35cb-4bbd-825e-cb8677cc56c1
+    -
+      vid: tags
+      tid: '331'
+      langcode: tr
+      name: 'açlık sınırı'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 23bf7df8-7c6c-425c-a247-e53fdc917b37
+    -
+      vid: tags
+      tid: '162'
+      langcode: tr
+      name: 'Afşin Hatipoğlu'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 6bd91c07-961f-4e63-b79d-353462802698
+    -
+      vid: tags
+      tid: '126'
+      langcode: tr
+      name: 'ahmet davutoğlu'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: c6a97fea-8145-4d4f-9138-e5a949b3a9c0
+    -
+      vid: tags
+      tid: '248'
+      langcode: tr
+      name: aihm
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: d6554725-c00a-4b82-bb6d-414ba358f6bc
+    -
+      vid: tags
+      tid: '96'
+      langcode: tr
+      name: 'ak parti'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 8d1ae74d-f111-40f6-a8d1-c308ee83b169
+    -
+      vid: tags
+      tid: '184'
+      langcode: tr
+      name: Akbank
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 538bec67-9c82-4f4a-8d55-6af1951002d1
+    -
+      vid: tags
+      tid: '26'
+      langcode: tr
+      name: akdeniz
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 390d75b9-132d-4577-892e-eb8adccf623d
+    -
+      vid: tags
+      tid: '75'
+      langcode: tr
+      name: AKP
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 4b535328-43fc-46ff-b333-2b6371f99164
+    -
+      vid: tags
+      tid: '237'
+      langcode: tr
+      name: 'ali babacan'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 434aa9d9-46b6-4aaf-acff-4aa3cd515e60
+    -
+      vid: tags
+      tid: '167'
+      langcode: tr
+      name: 'alım gücü'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: d3547640-e80c-48e8-8fc4-e348406383a2
+    -
+      vid: tags
+      tid: '362'
+      langcode: tr
+      name: 'alkol satışı'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: a5c3c024-335a-4d58-ab2e-3f448297f352
+    -
+      vid: tags
+      tid: '376'
+      langcode: tr
+      name: 'alkol yasağı'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: e1b8d49f-1bad-4529-a6f6-a9bba00af2f0
+    -
+      vid: tags
+      tid: '103'
+      langcode: tr
+      name: almanya
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 03866940-387b-422b-8ae9-7755b69ac541
+    -
+      vid: tags
+      tid: '141'
+      langcode: tr
+      name: 'almanya dışişleri bakanı maas'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: d7adfc12-2f19-485d-a429-0d2edc746ca5
+    -
+      vid: tags
+      tid: '247'
+      langcode: tr
+      name: 'almanya ticaret'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 55e64637-c4df-4fda-b784-3faa3486b1a6
+    -
+      vid: tags
+      tid: '5'
+      langcode: tr
+      name: altın
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 54cc12b6-59f1-4221-959a-6f7025497739
+    -
+      vid: tags
+      tid: '110'
+      langcode: tr
+      name: 'altın fiyatları'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 5866a15f-5c5c-4a62-a5c0-b15a9c10daf7
+    -
+      vid: tags
+      tid: '70'
+      langcode: tr
+      name: 'altın yatırımı'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 1d6a8c18-c0ce-4c95-a1a9-b9ecafca652f
+    -
+      vid: tags
+      tid: '266'
+      langcode: tr
+      name: 'altın yükselir mi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: d9c136f3-f8e1-4788-8d3c-3dca6d2c2729
+    -
+      vid: tags
+      tid: '264'
+      langcode: tr
+      name: amazon
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: c4b59a5b-3014-4538-992d-012a5105fac9
+    -
+      vid: tags
+      tid: '48'
+      langcode: tr
+      name: amerika
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 5134a723-d9d4-4bc9-b31a-412703ad668b
+    -
+      vid: tags
+      tid: '87'
+      langcode: tr
+      name: 'Amerikan Merkez Bankası'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 5e8db2d8-6cad-4b91-b676-bf818a44a336
+    -
+      vid: tags
+      tid: '211'
+      langcode: tr
+      name: 'antalya limanı'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 88b74391-3748-4cf0-95eb-e8e0413bc98d
+    -
+      vid: tags
+      tid: '169'
+      langcode: tr
+      name: 'Antony Blinken'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: f207601c-37ed-4e00-9232-80e4477b2b92
+    -
+      vid: tags
+      tid: '28'
+      langcode: tr
+      name: apple
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 9734080b-0c0a-48fd-8a22-33cd8967658b
+    -
+      vid: tags
+      tid: '116'
+      langcode: tr
+      name: 'Aralık 2020 bütçe açığı'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 4f90251c-db2c-48c5-835c-ebc704816b94
+    -
+      vid: tags
+      tid: '364'
+      langcode: tr
+      name: Aramco
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: c838d290-a7fe-40cd-88a7-1ee28c95b572
+    -
+      vid: tags
+      tid: '212'
+      langcode: tr
+      name: arçelik
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 03b947b2-425b-4199-9742-8d91a3ad7395
+    -
+      vid: tags
+      tid: '324'
+      langcode: tr
+      name: aşı
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: b93d65fe-1b0c-46fb-b254-a6feab8f7a4b
+    -
+      vid: tags
+      tid: '273'
+      langcode: tr
+      name: 'Asya borsaları'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: c22a27aa-1d40-4233-82c7-feef09c59758
+    -
+      vid: tags
+      tid: '93'
+      langcode: tr
+      name: avm
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 7bbfb192-f727-4511-8b42-887c1045f0f6
+    -
+      vid: tags
+      tid: '65'
+      langcode: tr
+      name: 'avrasya tüneli'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: c8eb2d64-cbd5-4c9a-a200-8b1acd4b893a
+    -
+      vid: tags
+      tid: '17'
+      langcode: tr
+      name: avro
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 355a6246-1618-4da9-ac32-ea3d4949fb96
+    -
+      vid: tags
+      tid: '201'
+      langcode: tr
+      name: 'avrupa birliği'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 13b9777d-1f5c-4baa-aaee-bc215386bda1
+    -
+      vid: tags
+      tid: '236'
+      langcode: tr
+      name: 'avrupa insan hakları mahkemesi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 95e9d76c-0509-45cb-bf7e-c4bd243e2ded
+    -
+      vid: tags
+      tid: '78'
+      langcode: tr
+      name: 'Avrupa Merkez Bankası'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 67b04600-d0ac-4f0a-89bf-41eb584ccf1f
+    -
+      vid: tags
+      tid: '189'
+      langcode: tr
+      name: 'avrupa parlamentosu'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 6c746e56-5798-4c68-b167-aef1a2d8840e
+    -
+      vid: tags
+      tid: '29'
+      langcode: tr
+      name: ayakkabı
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 8e8800c8-cc9d-43a2-815e-aed9c1e03246
+    -
+      vid: tags
+      tid: '89'
+      langcode: tr
+      name: 'ayçiçek yağı'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 829d0300-1054-4b2e-a138-36846d9e621d
+    -
+      vid: tags
+      tid: '122'
+      langcode: tr
+      name: aym
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 10b36fcb-d9b6-404d-aec9-5d42c609bd02
+    -
+      vid: tags
+      tid: '14'
+      langcode: tr
+      name: bakan
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 52febe67-0998-4859-a63a-760e1e98f91d
+    -
+      vid: tags
+      tid: '325'
+      langcode: tr
+      name: 'bakır fiyatları'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: a4934a61-59a4-437e-b7ac-23777a6cf272
+    -
+      vid: tags
+      tid: '181'
+      langcode: tr
+      name: banka
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: a67b35d3-c5c1-4203-b4c1-662dfbbf27ed
+    -
+      vid: tags
+      tid: '231'
+      langcode: tr
+      name: 'basın özgürlüğü'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: ea340707-83bf-42c4-9985-e75c8c06e9e1
+    -
+      vid: tags
+      tid: '358'
+      langcode: tr
+      name: 'bayram ikramiyesi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: bd52f511-5ef2-4798-8d82-ae46e0ad7c6a
+    -
+      vid: tags
+      tid: '361'
+      langcode: tr
+      name: 'bayram tatili'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 0a673228-b836-4e78-8eb1-1994f2e3c999
+    -
+      vid: tags
+      tid: '19'
+      langcode: tr
+      name: 'berat albayrak'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: c6fbebaa-aa4a-4b2d-9103-abbe63cd1384
+    -
+      vid: tags
+      tid: '260'
+      langcode: tr
+      name: 'Berhan Şimşek'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 66640e6a-7f14-4915-a853-feffb6d12bd8
+    -
+      vid: tags
+      tid: '130'
+      langcode: tr
+      name: 'bill gates'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 834af4eb-a6ad-4188-8c7f-93b7e4d14229
+    -
+      vid: tags
+      tid: '313'
+      langcode: tr
+      name: BİMEKS
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: fabe2724-2850-4d17-8aa0-686846e4f55e
+    -
+      vid: tags
+      tid: '299'
+      langcode: tr
+      name: BİNANCE
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: ea465cb7-fa51-4eff-9c18-a3ea952711b2
+    -
+      vid: tags
+      tid: '56'
+      langcode: tr
+      name: BIST
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 1506bafa-7ab0-430c-bb9b-c5b96d336dac
+    -
+      vid: tags
+      tid: '381'
+      langcode: tr
+      name: 'BIST 100'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 26112dde-13ee-4ab5-b316-9bf2b52a3291
+    -
+      vid: tags
+      tid: '41'
+      langcode: tr
+      name: bitcoin
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 4df0d396-d15c-43fe-b511-1e7cb25fc346
+    -
+      vid: tags
+      tid: '42'
+      langcode: tr
+      name: 'bitcoin yatırım'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 8e95b868-60ee-4a19-a277-283631566437
+    -
+      vid: tags
+      tid: '312'
+      langcode: tr
+      name: bloomberg
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: aad1131e-8973-4a04-827a-d8d7c14061fd
+    -
+      vid: tags
+      tid: '140'
+      langcode: tr
+      name: borç
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 99e715e7-a5b4-4ad4-81e9-b5d3eafa945e
+    -
+      vid: tags
+      tid: '164'
+      langcode: tr
+      name: 'boris johnson'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 93a5ea17-bae1-489f-9bfc-9abf08fdad5e
+    -
+      vid: tags
+      tid: '11'
+      langcode: tr
+      name: borsa
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: a00d1803-a528-4599-934f-7b48f606a18a
+    -
+      vid: tags
+      tid: '35'
+      langcode: tr
+      name: 'borsa eğitimi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 09e4f008-fc48-42af-8ace-2ac9f576083b
+    -
+      vid: tags
+      tid: '55'
+      langcode: tr
+      name: 'borsa istanbul'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 819f6014-17d3-4079-8cf2-676e33337c8d
+    -
+      vid: tags
+      tid: '280'
+      langcode: tr
+      name: Brexit
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 17f4c824-6ad8-4a4f-b61c-e7720785d978
+    -
+      vid: tags
+      tid: '148'
+      langcode: tr
+      name: buğday
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: cf27b505-5ad1-46fa-b0f1-844a5c640c58
+    -
+      vid: tags
+      tid: '206'
+      langcode: tr
+      name: 'buğday ihracatı'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: a9909cc9-8dc2-43bf-9ce0-ff3228930a1a
+    -
+      vid: tags
+      tid: '115'
+      langcode: tr
+      name: 'bütçe açığı'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: bdd357e6-0083-4311-bc67-9b5e66d11bf0
+    -
+      vid: tags
+      tid: '353'
+      langcode: tr
+      name: 'capital economics'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: ed2d59f5-407f-4a9b-917a-2830e8be8866
+    -
+      vid: tags
+      tid: '82'
+      langcode: tr
+      name: 'Carmen Reinhart'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 3963ce1c-e7f3-4006-809f-45cb6187333d
+    -
+      vid: tags
+      tid: '344'
+      langcode: tr
+      name: cenevre
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 6b5f3d4c-440c-4c8c-ab06-50be887bfede
+    -
+      vid: tags
+      tid: '258'
+      langcode: tr
+      name: 'cevad zarif'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: fd1b621c-609e-434c-b269-32526e20b4e9
+    -
+      vid: tags
+      tid: '341'
+      langcode: tr
+      name: chip
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 1c0de340-e6ff-4799-a645-26b7ee563d4c
+    -
+      vid: tags
+      tid: '46'
+      langcode: tr
+      name: chp
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 6607e7cb-bbb1-4253-a9f7-38fb33d7069a
+    -
+      vid: tags
+      tid: '209'
+      langcode: tr
+      name: çiftçi
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 8695335a-f027-4440-bb93-23a0f121192b
+    -
+      vid: tags
+      tid: '132'
+      langcode: tr
+      name: çin
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 718e93fa-4c41-4829-b7b1-0916fe7fdcaa
+    -
+      vid: tags
+      tid: '293'
+      langcode: tr
+      name: commerzbank
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 8102d704-1576-416a-87a4-f1bd6cc11eef
+    -
+      vid: tags
+      tid: '6'
+      langcode: tr
+      name: coronavirus
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: a44a8f16-a26e-4277-8719-6eecafd88c83
+    -
+      vid: tags
+      tid: '8'
+      langcode: tr
+      name: covid-19
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: caef6088-7781-49a6-bca9-26cb593cfdae
+    -
+      vid: tags
+      tid: '7'
+      langcode: tr
+      name: covid19
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 0a75dedc-a472-4365-abbb-67bf4d9d6849
+    -
+      vid: tags
+      tid: '303'
+      langcode: tr
+      name: 'Credit Suisse'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 7e97d37d-5686-4342-bd5c-c330ff6885c9
+    -
+      vid: tags
+      tid: '98'
+      langcode: tr
+      name: 'cumhur ittifakı'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: fb8946ed-5ccb-4877-a28a-58bd7a9e3940
+    -
+      vid: tags
+      tid: '61'
+      langcode: tr
+      name: 'cumhurbaşkanı erdoğan'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 3dbb677b-4b0a-4fe2-80e1-69bf0f42e7c7
+    -
+      vid: tags
+      tid: '218'
+      langcode: tr
+      name: 'Cumhurbaşkanı Tayyip Erdoğan'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: fac246e3-21ac-4f37-99fe-6bec5b1b6ae8
+    -
+      vid: tags
+      tid: '74'
+      langcode: tr
+      name: 'cumhurbaşkanlığı sistemi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 0620d84a-43af-4c64-95dd-c3657005db52
+    -
+      vid: tags
+      tid: '168'
+      langcode: tr
+      name: 'deniz zeyrek'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 0fd767a4-b86a-4d26-b12e-85cb06607fa2
+    -
+      vid: tags
+      tid: '367'
+      langcode: tr
+      name: denizbank
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 69156b28-feb6-40f3-847a-6ed4b26345e2
+    -
+      vid: tags
+      tid: '60'
+      langcode: tr
+      name: 'deutsche bank'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: d6ed5b10-49c5-4a87-b366-31a308fee8b3
+    -
+      vid: tags
+      tid: '106'
+      langcode: tr
+      name: 'devlet bahçeli'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 9b95c123-2040-44cd-a2a7-83ecacb1c770
+    -
+      vid: tags
+      tid: '79'
+      langcode: tr
+      name: 'dijital para'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: dc9b3669-6b48-4197-aa61-c4eef79183da
+    -
+      vid: tags
+      tid: '261'
+      langcode: tr
+      name: 'dış borç'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 68f2d316-3fbc-4703-aef0-85a4ee196d12
+    -
+      vid: tags
+      tid: '245'
+      langcode: tr
+      name: 'dış ticaret'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 0be0639f-ecc0-41a3-863f-66663d0cd029
+    -
+      vid: tags
+      tid: '246'
+      langcode: tr
+      name: 'dış ticaret açığı'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 32ba8850-1132-4bff-8dd0-1c8c76c57f0e
+    -
+      vid: tags
+      tid: '142'
+      langcode: tr
+      name: 'dışişleri bakanı çavuşoğlu'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 373704a5-755a-4a4b-9554-0db8c8a06de5
+    -
+      vid: tags
+      tid: '204'
+      langcode: tr
+      name: 'doğu akdeniz'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 3258ffbb-8a42-4884-b11b-3eb6ae34fc14
+    -
+      vid: tags
+      tid: '191'
+      langcode: tr
+      name: 'doğu perinçek'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 890b9470-7ff8-41e7-b87b-2717187f0541
+    -
+      vid: tags
+      tid: '22'
+      langcode: tr
+      name: dolar
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 7bb0872d-47a1-4571-b12f-1d2c6c08aa47
+    -
+      vid: tags
+      tid: '366'
+      langcode: tr
+      name: 'dolar rezervi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: d531502f-9700-42da-aaa8-3330de97e2e0
+    -
+      vid: tags
+      tid: '69'
+      langcode: tr
+      name: 'dolar yatırımı'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 08a0d56b-254b-40d7-997b-6b4ade019ac0
+    -
+      vid: tags
+      tid: '118'
+      langcode: tr
+      name: 'dolardaki artış'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 2237d669-204c-4398-87c8-0268161981bc
+    -
+      vid: tags
+      tid: '15'
+      langcode: tr
+      name: doler
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 176fbf3d-7832-4b3a-9621-03f66f289252
+    -
+      vid: tags
+      tid: '241'
+      langcode: tr
+      name: domates
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: b79f84b5-2e48-4a08-894d-7154057ab08c
+    -
+      vid: tags
+      tid: '47'
+      langcode: tr
+      name: 'donald trump'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: e246120d-cebc-4735-983f-351d3f5b5a78
+    -
+      vid: tags
+      tid: '72'
+      langcode: tr
+      name: 'Donald Trump azledildi mi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 94465f7c-555c-4978-a8b5-94b192d39b57
+    -
+      vid: tags
+      tid: '18'
+      langcode: tr
+      name: döviz
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: f2526cd2-c247-4fa2-b0a3-89195e6f4ae4
+    -
+      vid: tags
+      tid: '284'
+      langcode: tr
+      name: 'Dünya Bankası'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 3bc0c365-814b-4311-b89f-e94d182655c6
+    -
+      vid: tags
+      tid: '217'
+      langcode: tr
+      name: ecb
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 044d3c0d-5a86-4c0b-b964-062e2260e611
+    -
+      vid: tags
+      tid: '137'
+      langcode: tr
+      name: ekonomi
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 2fcb3a04-d75f-4e52-8b15-d732643d7def
+    -
+      vid: tags
+      tid: '379'
+      langcode: tr
+      name: 'ekonomi güven endeksi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 2bdcd756-628b-4729-b63f-a506b28748c8
+    -
+      vid: tags
+      tid: '351'
+      langcode: tr
+      name: 'ekonomi reform paketi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 7b8b86fa-b580-45fa-929d-ccb85b9bcff0
+    -
+      vid: tags
+      tid: '81'
+      langcode: tr
+      name: 'ekonomik kriz'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: d2cf1b50-0f93-4653-9d26-9a3fb635eb48
+    -
+      vid: tags
+      tid: '319'
+      langcode: tr
+      name: 'Ekrem İmamoğlu'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: d80fbfec-4cf3-4a68-9c4e-45d1ecef9481
+    -
+      vid: tags
+      tid: '378'
+      langcode: tr
+      name: 'elektrik faturası'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 35839f5e-4bb1-4ca1-b6c0-6fde9a7850a6
+    -
+      vid: tags
+      tid: '58'
+      langcode: tr
+      name: 'Elon Musk'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 80ccd6d9-47b8-4b82-a3fe-61dc0a77cfef
+    -
+      vid: tags
+      tid: '357'
+      langcode: tr
+      name: 'emekli ikramiyesi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 232fe4ff-6f46-4167-a51a-248059e5414d
+    -
+      vid: tags
+      tid: '119'
+      langcode: tr
+      name: 'emmanuel macron'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: bd8a88ac-f4ef-471b-8498-d663108552bc
+    -
+      vid: tags
+      tid: '174'
+      langcode: tr
+      name: emtia
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 361a6c25-b0b7-4c3a-b2f6-c40447ea3a2b
+    -
+      vid: tags
+      tid: '173'
+      langcode: tr
+      name: enflasyon
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 4e495e01-7d10-4290-9cdf-5a7f4ac837f9
+    -
+      vid: tags
+      tid: '225'
+      langcode: tr
+      name: 'enflasyon raporu'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 489d4334-8ab7-4764-b851-f1d62e1ffcb6
+    -
+      vid: tags
+      tid: '121'
+      langcode: tr
+      name: 'enis berberoğlu'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 1a0a4d09-a8a2-4155-a1d0-a06598881221
+    -
+      vid: tags
+      tid: '83'
+      langcode: tr
+      name: erdoğan
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: e2a2337f-8a6a-4887-b12f-30dcfe59adec
+    -
+      vid: tags
+      tid: '92'
+      langcode: tr
+      name: 'Erdoğan Toprak'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: c29195e1-af2a-4beb-b8fc-45f2b3ab97d4
+    -
+      vid: tags
+      tid: '355'
+      langcode: tr
+      name: 'erken seçim'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 2c122b1d-357f-4471-ab87-16841abe15c8
+    -
+      vid: tags
+      tid: '193'
+      langcode: tr
+      name: esnaf
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 474a17ff-64f2-47ba-a18c-b3d394c41d21
+    -
+      vid: tags
+      tid: '150'
+      langcode: tr
+      name: ETF
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 162ca030-b0d3-4adb-b8b9-1d3a479a29ff
+    -
+      vid: tags
+      tid: '16'
+      langcode: tr
+      name: euro
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 8a84bbdd-7f1d-407b-acba-8f7fb78712d9
+    -
+      vid: tags
+      tid: '159'
+      langcode: tr
+      name: eurobond
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: df275ae5-46eb-4a5e-97e4-6bd3775e50f2
+    -
+      vid: tags
+      tid: '63'
+      langcode: tr
+      name: f35
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: a577c898-9277-492c-b1e3-8129b2e91c74
+    -
+      vid: tags
+      tid: '33'
+      langcode: tr
+      name: faiz
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 2d54b642-622d-4c90-825b-ac9369f76bb5
+    -
+      vid: tags
+      tid: '187'
+      langcode: tr
+      name: 'faiz düşüşü'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 12937473-f384-4a19-9468-f036a81be635
+    -
+      vid: tags
+      tid: '224'
+      langcode: tr
+      name: 'faiz politikası'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: b63d6dd1-e900-4300-bca4-c47a560bfde3
+    -
+      vid: tags
+      tid: '321'
+      langcode: tr
+      name: 'Faruk Fatih Özer'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: e18d0455-6995-4ca4-bd72-fd242fd38363
+    -
+      vid: tags
+      tid: '23'
+      langcode: tr
+      name: fed
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 456d7bd2-c9fb-4091-939b-f46020be0339
+    -
+      vid: tags
+      tid: '222'
+      langcode: tr
+      name: 'federal fonlama faizi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 47a7951c-caa0-4419-8d16-ee734417c188
+    -
+      vid: tags
+      tid: '349'
+      langcode: tr
+      name: 'Finanas Şirketi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 63dbca26-b218-4b96-a0be-c34ee29441af
+    -
+      vid: tags
+      tid: '178'
+      langcode: tr
+      name: 'financial times'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 36df9dac-51ce-458f-89ef-911a5710ca27
+    -
+      vid: tags
+      tid: '263'
+      langcode: tr
+      name: 'Fitch Raitings'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 66b923e6-d2d8-4bd4-a128-0d9ad5ffbdc3
+    -
+      vid: tags
+      tid: '120'
+      langcode: tr
+      name: fransa
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: e06bd9ae-a828-4298-a81a-a615bc84df70
+    -
+      vid: tags
+      tid: '270'
+      langcode: tr
+      name: 'Galata Wind'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: b8698e10-834d-4dcc-9451-c1e98ed664bf
+    -
+      vid: tags
+      tid: '127'
+      langcode: tr
+      name: 'gelecek partisi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: b9f79ccf-954f-4021-92cb-24b5f2f7ef4b
+    -
+      vid: tags
+      tid: '207'
+      langcode: tr
+      name: 'gıda fiyatları'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 32cb6424-120c-4f39-b9bf-42c6c82761a7
+    -
+      vid: tags
+      tid: '281'
+      langcode: tr
+      name: 'girişim elektrik'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 5035d7d3-8c07-4538-9c35-aabc895deac8
+    -
+      vid: tags
+      tid: '350'
+      langcode: tr
+      name: 'GKFX Finans'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 46f2d91a-48e3-4e7d-9ba1-0832ac185e1f
+    -
+      vid: tags
+      tid: '208'
+      langcode: tr
+      name: 'gübre zammı'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: e4d996e4-9fee-47da-a836-02c896225f5d
+    -
+      vid: tags
+      tid: '108'
+      langcode: tr
+      name: 'halk ekmek'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 31f01424-c613-48de-a460-b2a6a66e1309
+    -
+      vid: tags
+      tid: '271'
+      langcode: tr
+      name: 'Halka Arz'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: f2b9c37c-7dac-4a3d-9d70-859ec45c9495
+    -
+      vid: tags
+      tid: '195'
+      langcode: tr
+      name: halkbank
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 22ed66ec-8252-44e5-9599-2c88bdaa1b8f
+    -
+      vid: tags
+      tid: '214'
+      langcode: tr
+      name: hamas
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 7aba3e6e-a153-4bae-a2d6-a991a080169a
+    -
+      vid: tags
+      tid: '302'
+      langcode: tr
+      name: 'Havacılık Sektörü'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 6ef6f037-5abd-4572-890d-9392a80f74bd
+    -
+      vid: tags
+      tid: '348'
+      langcode: tr
+      name: 'hayyam garipoğlu'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 04a9ea38-e51b-49a0-b264-1cdd5398a41d
+    -
+      vid: tags
+      tid: '20'
+      langcode: tr
+      name: hazine
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 964747bb-776c-4cf1-b06e-8108956ee170
+    -
+      vid: tags
+      tid: '160'
+      langcode: tr
+      name: 'hazine ve maliye bakanlığı'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 7b9703b5-e721-43f8-948a-b7536ecbe34d
+    -
+      vid: tags
+      tid: '107'
+      langcode: tr
+      name: HDP
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 48c6bc3e-2a2f-428f-aa88-500ee37600ee
+    -
+      vid: tags
+      tid: '12'
+      langcode: tr
+      name: hisse
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 0b29e35d-9ed4-4f59-965f-033555b93352
+    -
+      vid: tags
+      tid: '13'
+      langcode: tr
+      name: 'hisse senetleri'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 5a82968a-2037-4164-8a2e-f770a929b747
+    -
+      vid: tags
+      tid: '198'
+      langcode: tr
+      name: 'hizmet sektörü'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 3a0f1a4e-f1a4-40b7-9aa1-80e34f561930
+    -
+      vid: tags
+      tid: '145'
+      langcode: tr
+      name: 'hulusi akar'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: e5f396e1-a19f-41e6-9f25-c269776d8de9
+    -
+      vid: tags
+      tid: '109'
+      langcode: tr
+      name: ibb
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 92e19a40-9437-4e8c-81b4-bab864fbe032
+    -
+      vid: tags
+      tid: '320'
+      langcode: tr
+      name: 'ibrahim kalın'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 1c0b2c97-0003-46d5-860d-ae8b28c00a44
+    -
+      vid: tags
+      tid: '296'
+      langcode: tr
+      name: 'iç işleri bakanlığı'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 27bd7750-24b9-4463-83bd-b95662f48835
+    -
+      vid: tags
+      tid: '268'
+      langcode: tr
+      name: 'İcra ve İflas'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 90094a02-b79a-404c-ae36-5e4783c4347f
+    -
+      vid: tags
+      tid: '269'
+      langcode: tr
+      name: 'İcra ve İflas Hukuku'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: df674275-5164-4dd0-9902-66682412fbfd
+    -
+      vid: tags
+      tid: '314'
+      langcode: tr
+      name: İflas
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: c8bceb1e-5f17-40bf-b28c-a0bdb27dd0fa
+    -
+      vid: tags
+      tid: '328'
+      langcode: tr
+      name: İFO
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 4715023b-fdae-41bc-bf75-052b8ea28ba5
+    -
+      vid: tags
+      tid: '135'
+      langcode: tr
+      name: ihracat
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 84dc25d8-c560-4a1d-99f6-603c1867044b
+    -
+      vid: tags
+      tid: '337'
+      langcode: tr
+      name: 'ikinci el araç'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 66c43c30-bd7b-4d74-8191-47675babbe1c
+    -
+      vid: tags
+      tid: '329'
+      langcode: tr
+      name: 'imalat sanayii'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 4a997a53-ffcc-4e44-807a-e5484d59828b
+    -
+      vid: tags
+      tid: '21'
+      langcode: tr
+      name: IMF
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: dd093fae-6a56-4bb6-bba6-e08bbefb0525
+    -
+      vid: tags
+      tid: '165'
+      langcode: tr
+      name: ingiltere
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: de6979af-70c4-4840-9f5e-e491789c8038
+    -
+      vid: tags
+      tid: '101'
+      langcode: tr
+      name: inşaat
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 44b2e2b5-bd67-4e36-bed1-c90616a23fa1
+    -
+      vid: tags
+      tid: '144'
+      langcode: tr
+      name: ırak
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 2a2b10fd-ce24-4b32-86b5-4566fca7af50
+    -
+      vid: tags
+      tid: '155'
+      langcode: tr
+      name: iran
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 2b57ff0a-ac05-4fe4-b954-efa3cb1b29f1
+    -
+      vid: tags
+      tid: '257'
+      langcode: tr
+      name: 'iran türkiye'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 4ed1ef1a-95c4-4d4f-9340-720088f1a416
+    -
+      vid: tags
+      tid: '283'
+      langcode: tr
+      name: 'İş Bankası'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 686b5dc9-b31d-4d2c-923e-54b677ad8aa2
+    -
+      vid: tags
+      tid: '369'
+      langcode: tr
+      name: 'iş dünyası'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 6d6b4d3e-69ed-472c-9edc-d3fca2889970
+    -
+      vid: tags
+      tid: '151'
+      langcode: tr
+      name: 'iShares MSCI Türkiye yatırım fonu'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: bd4be3ec-76ef-4d6d-9225-d2806634e487
+    -
+      vid: tags
+      tid: '215'
+      langcode: tr
+      name: israil
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 1eb5ee69-d675-4ce6-a23e-480b51fb265e
+    -
+      vid: tags
+      tid: '68'
+      langcode: tr
+      name: 'işsizlik fonu'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 39a3697c-e2af-46f5-9fd3-1af132db1286
+    -
+      vid: tags
+      tid: '99'
+      langcode: tr
+      name: 'işsizlik maaşı'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 560c7d46-b37f-4f44-9980-450006862c88
+    -
+      vid: tags
+      tid: '305'
+      langcode: tr
+      name: italya
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 40e08de4-b0e2-491b-a149-d97bb08f22c2
+    -
+      vid: tags
+      tid: '134'
+      langcode: tr
+      name: ithalat
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 58c6f34d-3c46-4abe-ba95-6964f99658b0
+    -
+      vid: tags
+      tid: '326'
+      langcode: tr
+      name: İTO
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 86b66757-ed67-4866-bf10-eddde47b27de
+    -
+      vid: tags
+      tid: '239'
+      langcode: tr
+      name: ittifak
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 28baea42-93b5-4926-9b2c-3e5fafd3d913
+    -
+      vid: tags
+      tid: '306'
+      langcode: tr
+      name: iveco
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 53bf4f8d-8a97-45ba-a815-86045d0fb354
+    -
+      vid: tags
+      tid: '73'
+      langcode: tr
+      name: 'iyi parti'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 94a6c3a6-6d18-4112-8d32-e54a00bf0ea6
+    -
+      vid: tags
+      tid: '177'
+      langcode: tr
+      name: 'iyon denizi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 035d4d13-cc8f-47e1-aeca-3aafc23211b8
+    -
+      vid: tags
+      tid: '147'
+      langcode: tr
+      name: 'Janet Yellen'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 695d3b7a-09ac-46ee-89a5-c9dbe71d0b5e
+    -
+      vid: tags
+      tid: '265'
+      langcode: tr
+      name: 'Jeff Bezos'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 92578e9b-5a60-48ef-9f7c-635a3636df38
+    -
+      vid: tags
+      tid: '368'
+      langcode: tr
+      name: 'Jerome Powell'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 3ea10e26-9f11-4a11-9f8a-99b95d3465bb
+    -
+      vid: tags
+      tid: '50'
+      langcode: tr
+      name: 'joe biden'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: bc6e3374-74eb-4345-a145-74412484200b
+    -
+      vid: tags
+      tid: '180'
+      langcode: tr
+      name: 'JP Morgan'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 967a450b-57c4-4d55-aeda-703c0afa5082
+    -
+      vid: tags
+      tid: '372'
+      langcode: tr
+      name: 'kamala haris'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: e134a324-c813-4ab3-a78a-0b7408f18fe2
+    -
+      vid: tags
+      tid: '307'
+      langcode: tr
+      name: 'kamu borcu'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: eb368108-ac91-4c83-a26f-2da9299483c4
+    -
+      vid: tags
+      tid: '171'
+      langcode: tr
+      name: 'kamu işletmeleri'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: f9560f53-8f6e-48d4-85a2-67a8cb79e9ac
+    -
+      vid: tags
+      tid: '200'
+      langcode: tr
+      name: 'kamu kuruluşları'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: d36aff9d-9a83-4638-97dc-d71587e46c33
+    -
+      vid: tags
+      tid: '335'
+      langcode: tr
+      name: 'Kanal İstanbul'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 2e786ff9-2a9f-481d-b534-737c259c0664
+    -
+      vid: tags
+      tid: '272'
+      langcode: tr
+      name: KAP
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: f7778261-142b-4640-8fa7-e7a5f77c6d04
+    -
+      vid: tags
+      tid: '330'
+      langcode: tr
+      name: 'kapasite kullanımı'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: eba00cb2-3178-471e-bf42-d092bce422c0
+    -
+      vid: tags
+      tid: '199'
+      langcode: tr
+      name: kar
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 813ed710-b90d-4e85-900a-daedcba21712
+    -
+      vid: tags
+      tid: '255'
+      langcode: tr
+      name: 'kar payı'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: e5ae5a7b-648b-4867-96f8-a2305b983f8a
+    -
+      vid: tags
+      tid: '278'
+      langcode: tr
+      name: karadeniz
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 62a1d46d-a630-4334-a046-0d5dcce57b02
+    -
+      vid: tags
+      tid: '153'
+      langcode: tr
+      name: katar
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: c1b502d0-099f-41cd-9280-993061ed77c7
+    -
+      vid: tags
+      tid: '154'
+      langcode: tr
+      name: 'katar yatırımları'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 2e94cdd6-810a-425a-9098-9f9918c5b09d
+    -
+      vid: tags
+      tid: '54'
+      langcode: tr
+      name: 'kemal kılıçdaroğlu'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: f14ef607-b2e6-498f-8d39-e963e37b8204
+    -
+      vid: tags
+      tid: '343'
+      langcode: tr
+      name: kıbrıs
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: b884afde-7dd8-45f4-bfc3-0b69bac1b6d9
+    -
+      vid: tags
+      tid: '295'
+      langcode: tr
+      name: 'kısa çalışma ödeneği'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: c088d069-63d5-4aec-a483-c4094065d539
+    -
+      vid: tags
+      tid: '113'
+      langcode: tr
+      name: 'kısa vadeli borç'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 1370e583-f884-4cca-9253-e5b62bbbde0a
+    -
+      vid: tags
+      tid: '317'
+      langcode: tr
+      name: KKTC
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 2dd163cb-11ca-4ee6-9cd3-89f1f91baa88
+    -
+      vid: tags
+      tid: '256'
+      langcode: tr
+      name: 'Knight Frank'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 010e8da5-66ff-46c8-9bab-4882bae1e174
+    -
+      vid: tags
+      tid: '371'
+      langcode: tr
+      name: KOBİ
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 6743917a-356c-4f3d-b791-29291012a991
+    -
+      vid: tags
+      tid: '340'
+      langcode: tr
+      name: 'koltuk krizi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: a610a118-3c9a-4e97-be6d-b11b962aa885
+    -
+      vid: tags
+      tid: '158'
+      langcode: tr
+      name: 'konut fiyat endeksi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: ec6c1aef-4b2b-4250-a70b-a443ce82409e
+    -
+      vid: tags
+      tid: '157'
+      langcode: tr
+      name: 'konut fiyatları'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: b1d50156-1aba-416e-ad5d-7876db951129
+    -
+      vid: tags
+      tid: '94'
+      langcode: tr
+      name: 'konut satışları'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 92c6a4d6-c460-4e55-955d-6cd6d5460cb3
+    -
+      vid: tags
+      tid: '373'
+      langcode: tr
+      name: 'korkut boratav'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 44569093-d288-4499-99e2-90474337e4d3
+    -
+      vid: tags
+      tid: '88'
+      langcode: tr
+      name: koronavirüs
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 195b9182-02fc-4a97-b1c6-7503751741de
+    -
+      vid: tags
+      tid: '196'
+      langcode: tr
+      name: 'kredi ertelemesi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: a54c7c80-82b1-4017-a95e-e6ad9c6891da
+    -
+      vid: tags
+      tid: '216'
+      langcode: tr
+      name: 'kripto para'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 68314b56-430c-4339-83c1-d92f40967a2d
+    -
+      vid: tags
+      tid: '375'
+      langcode: tr
+      name: 'külçe altın'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 3ee77b99-0155-4471-9a1f-3ed402addb00
+    -
+      vid: tags
+      tid: '354'
+      langcode: tr
+      name: 'kur tahmini'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 657e5399-e78d-42a0-9534-4f1c8c19ef79
+    -
+      vid: tags
+      tid: '285'
+      langcode: tr
+      name: 'küresel piyasalar'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 982cbed1-edcc-40f6-9967-1b66c46914b1
+    -
+      vid: tags
+      tid: '300'
+      langcode: tr
+      name: 'kurumlar vergisi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 28e5ad0d-09ba-4005-8d14-ccf888527d80
+    -
+      vid: tags
+      tid: '252'
+      langcode: tr
+      name: libor
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 012b44fa-ae21-47a6-b33a-ad054d079b8f
+    -
+      vid: tags
+      tid: '253'
+      langcode: tr
+      name: 'libor faizi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 86a340f3-bd81-4bfc-bcec-5e0714a03cf9
+    -
+      vid: tags
+      tid: '250'
+      langcode: tr
+      name: libya
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: ad24a2c5-9f80-446f-8d6e-bf5b6351bde2
+    -
+      vid: tags
+      tid: '251'
+      langcode: tr
+      name: 'libyada son durum'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 4f655fbd-0b64-4398-89c5-4d452ba6ef17
+    -
+      vid: tags
+      tid: '136'
+      langcode: tr
+      name: 'lütfi elvan'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: fd525819-1fa9-461a-b70a-08dc39f91a01
+    -
+      vid: tags
+      tid: '232'
+      langcode: tr
+      name: macaristan
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 9927962a-62d5-4f06-8d1f-7b289133a60f
+    -
+      vid: tags
+      tid: '238'
+      langcode: tr
+      name: 'mahir ünal'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 69ce4d0a-1af4-4673-ac25-c6d409f2656e
+    -
+      vid: tags
+      tid: '315'
+      langcode: tr
+      name: Mahkeme
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: f375fb9b-5768-4c40-92e4-2f40f28dbecc
+    -
+      vid: tags
+      tid: '318'
+      langcode: tr
+      name: 'Mansur Yavaş'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 46225a25-f2f2-448d-816f-451ee2363b9e
+    -
+      vid: tags
+      tid: '276'
+      langcode: tr
+      name: 'margün enerji'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 3f6bc9d8-b96a-4c72-8ff4-c21e44d0e3bb
+    -
+      vid: tags
+      tid: '346'
+      langcode: tr
+      name: 'market fiyatları'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 59ca7b4c-6cf1-4bdd-90f8-21034cb343eb
+    -
+      vid: tags
+      tid: '289'
+      langcode: tr
+      name: 'mehmet muş'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: b0a4ef7c-7f27-42c0-93c9-1b877cc3a243
+    -
+      vid: tags
+      tid: '382'
+      langcode: tr
+      name: 'memur maaşları'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 51a17cf2-47d1-40f9-8722-2576a58b30df
+    -
+      vid: tags
+      tid: '105'
+      langcode: tr
+      name: 'meral akşener'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 1154155b-d24a-485a-b3f9-0bc6caa7712f
+    -
+      vid: tags
+      tid: '31'
+      langcode: tr
+      name: 'merkez bankası'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 6b6b234d-8247-410c-924e-149c6aadabca
+    -
+      vid: tags
+      tid: '102'
+      langcode: tr
+      name: metal
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 52ad825e-a41a-4005-8f50-f619f0796c5e
+    -
+      vid: tags
+      tid: '274'
+      langcode: tr
+      name: Metropoll
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 68aa72a0-d8b6-4bdb-9771-e3e677d0c0f6
+    -
+      vid: tags
+      tid: '190'
+      langcode: tr
+      name: 'Mevlüt Çavuşoğlu'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: e5dc02fe-a861-450b-b573-075900c2969d
+    -
+      vid: tags
+      tid: '86'
+      langcode: tr
+      name: MHP
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: ce9b27dd-1bd4-4b9f-bafa-c6ee98f42d41
+    -
+      vid: tags
+      tid: '131'
+      langcode: tr
+      name: microsoft
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 276daae9-5e44-43c2-9885-e7b81f35ebeb
+    -
+      vid: tags
+      tid: '71'
+      langcode: tr
+      name: 'mike pence'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: a7fe3932-1d05-4283-b6d1-97d244b31e8a
+    -
+      vid: tags
+      tid: '259'
+      langcode: tr
+      name: militan
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 8d9455d7-dcd9-45e1-82fe-d46727900d23
+    -
+      vid: tags
+      tid: '220'
+      langcode: tr
+      name: 'militan tartışması'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 9685fcc2-f541-4feb-9869-f4600fe35b69
+    -
+      vid: tags
+      tid: '76'
+      langcode: tr
+      name: 'millet ittifakı'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: d3ced2ce-44ae-41df-95ab-0392bf5c7d90
+    -
+      vid: tags
+      tid: '146'
+      langcode: tr
+      name: 'milli savunma bakanlığı'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: ea660d23-3b51-47e3-bdcc-f74c7af9e046
+    -
+      vid: tags
+      tid: '114'
+      langcode: tr
+      name: 'Morgan Stanley'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 85b99caf-b5ef-4d26-8e66-debb8af28f68
+    -
+      vid: tags
+      tid: '45'
+      langcode: tr
+      name: 'muharrem ince'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: de0ea233-a665-4b29-94dd-9e0f8d589592
+    -
+      vid: tags
+      tid: '374'
+      langcode: tr
+      name: 'mustafa şentop'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: d8a1ec98-00e6-48e3-8bde-97505c8670b7
+    -
+      vid: tags
+      tid: '223'
+      langcode: tr
+      name: 'naci ağbal'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: d3586990-82dd-4ef1-a29c-72482dd47c45
+    -
+      vid: tags
+      tid: '43'
+      langcode: tr
+      name: 'Nouriel Roubini'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 7c32b258-1271-488d-bed2-c02da4270f6e
+    -
+      vid: tags
+      tid: '219'
+      langcode: tr
+      name: 'oğuzhan asiltürk'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 4237d10f-c556-4c02-9301-4753b169c8d6
+    -
+      vid: tags
+      tid: '123'
+      langcode: tr
+      name: 'Orhan Uğuroğlu'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 291a60fe-d15c-4bd5-a8d3-e9f1d5374cf2
+    -
+      vid: tags
+      tid: '66'
+      langcode: tr
+      name: 'osmangazi köprüsü'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 2ca0c301-cf61-48f3-96ab-3b285d4a0f0f
+    -
+      vid: tags
+      tid: '336'
+      langcode: tr
+      name: otomotiv
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: bafe5e05-4ee7-4d98-b982-08b098d52673
+    -
+      vid: tags
+      tid: '275'
+      langcode: tr
+      name: 'paladyum trade'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 667b0fc9-0c00-4b16-937b-fcf98f9e1626
+    -
+      vid: tags
+      tid: '80'
+      langcode: tr
+      name: pandemi
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 14df0a6e-05be-4ad7-9b68-17c01d737bfb
+    -
+      vid: tags
+      tid: '370'
+      langcode: tr
+      name: 'pandemi destek'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 48be3369-519b-4446-9dac-d7e659649e65
+    -
+      vid: tags
+      tid: '27'
+      langcode: tr
+      name: para
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 6352c53e-4639-4d53-8fac-3a221d0614c1
+    -
+      vid: tags
+      tid: '227'
+      langcode: tr
+      name: patates
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 5e2b8fb6-2d68-48ca-9de4-c5f70c85cffc
+    -
+      vid: tags
+      tid: '229'
+      langcode: tr
+      name: 'patates soğan fiyatları'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 1e73788b-fa7b-46a3-b315-2dadf8dd44c2
+    -
+      vid: tags
+      tid: '338'
+      langcode: tr
+      name: Pentagon
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 60aca749-2f75-4907-8db5-81753e68f0a7
+    -
+      vid: tags
+      tid: '197'
+      langcode: tr
+      name: perakende
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 420ca275-d4b4-4199-93f9-de92f8d10da0
+    -
+      vid: tags
+      tid: '4'
+      langcode: tr
+      name: petrol
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 35e47222-63fc-4a90-9def-99fd9616b0ca
+    -
+      vid: tags
+      tid: '111'
+      langcode: tr
+      name: 'petrol fiyatları'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: e972bc4e-fb48-4054-a299-e5779284eb71
+    -
+      vid: tags
+      tid: '30'
+      langcode: tr
+      name: piyasa
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 517f199f-2c1a-4635-89bb-5c55d1a93e25
+    -
+      vid: tags
+      tid: '267'
+      langcode: tr
+      name: 'PMI Verileri'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: fa507b83-e710-48ba-8407-f0be4845d0ca
+    -
+      vid: tags
+      tid: '24'
+      langcode: tr
+      name: politika
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: cd9157b4-c6fa-4441-a248-fec6779fcf65
+    -
+      vid: tags
+      tid: '286'
+      langcode: tr
+      name: 'prim borcu'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 0943e61a-777d-4958-879e-52a09ca8cbbc
+    -
+      vid: tags
+      tid: '240'
+      langcode: tr
+      name: ptt
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 475ed204-1bca-4906-8702-24fcaede526a
+    -
+      vid: tags
+      tid: '291'
+      langcode: tr
+      name: putin
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: fcc536f8-dbb3-4846-89fa-96f87c19dcd4
+    -
+      vid: tags
+      tid: '210'
+      langcode: tr
+      name: QTerminals
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: f28b392b-3eac-4f73-9743-2ab4e18d86c6
+    -
+      vid: tags
+      tid: '3'
+      langcode: tr
+      name: radyum
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 750c0ff0-3e9d-41c8-9b8e-3bdc7ff09722
+    -
+      vid: tags
+      tid: '51'
+      langcode: tr
+      name: 'recep tayyip erdoğan'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 7f4c88e5-3eb7-41b6-8774-510f9b79d26d
+    -
+      vid: tags
+      tid: '282'
+      langcode: tr
+      name: 'rekabet kurulu'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 1fcb3c61-e225-4ebd-9f85-c633e45a305b
+    -
+      vid: tags
+      tid: '323'
+      langcode: tr
+      name: rezerv
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 737c75c7-c5ba-4bc5-8dfc-89ff8d43633f
+    -
+      vid: tags
+      tid: '292'
+      langcode: tr
+      name: Ruble
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: b390cf29-e566-4fd6-927a-3db134b1cab3
+    -
+      vid: tags
+      tid: '205'
+      langcode: tr
+      name: rusya
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 84698877-6cb3-4b65-bb86-dd2422aeac10
+    -
+      vid: tags
+      tid: '90'
+      langcode: tr
+      name: 'rusya ithalat'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: e8e26d45-13f8-47e5-9363-fd17299a5634
+    -
+      vid: tags
+      tid: '310'
+      langcode: tr
+      name: 'rusya merkez bankası'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 218fbb92-601d-4927-914b-3f9216b13be7
+    -
+      vid: tags
+      tid: '9'
+      langcode: tr
+      name: 'S&P'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: bd37951a-e150-4264-9cd8-9e672e58b2dc
+    -
+      vid: tags
+      tid: '129'
+      langcode: tr
+      name: S-400
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 28fe8227-68cf-4148-b6c9-ce41122c55d6
+    -
+      vid: tags
+      tid: '97'
+      langcode: tr
+      name: 'saadet partisi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: f6922c72-582a-4b47-9339-c6eb4aac7603
+    -
+      vid: tags
+      tid: '311'
+      langcode: tr
+      name: 'Şahap Kavcıoğlu'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: e15a867e-2856-429a-a044-62f76c7d3384
+    -
+      vid: tags
+      tid: '125'
+      langcode: tr
+      name: saldırı
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: c7a16695-7e2b-4e02-9870-625910cb30b1
+    -
+      vid: tags
+      tid: '194'
+      langcode: tr
+      name: sanatkar
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: bf521325-04bd-4032-83c5-f53435a4eaab
+    -
+      vid: tags
+      tid: '34'
+      langcode: tr
+      name: 'savaşi para'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 48c3759b-2895-4bf7-a88e-abd5de343ba5
+    -
+      vid: tags
+      tid: '233'
+      langcode: tr
+      name: 'seçim anketi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 0a9aa31b-61a3-478f-bc55-e3923b4cc2a0
+    -
+      vid: tags
+      tid: '327'
+      langcode: tr
+      name: 'Şekip Ağdaviç'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 1e1887ef-b6da-4385-b315-e6bb3626d7e2
+    -
+      vid: tags
+      tid: '128'
+      langcode: tr
+      name: 'selçuk özdağ'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 31de956b-db34-46e4-a9aa-b4ba3240e8db
+    -
+      vid: tags
+      tid: '304'
+      langcode: tr
+      name: seyahat
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 09a4b923-54f5-432a-9a9c-2e066fc60a88
+    -
+      vid: tags
+      tid: '359'
+      langcode: tr
+      name: 'seyahat izin belgesi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: ade9258f-f918-45e3-baaa-377509f657e3
+    -
+      vid: tags
+      tid: '228'
+      langcode: tr
+      name: soğan
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 3a7ee092-84a1-4afe-8064-939c27e6107d
+    -
+      vid: tags
+      tid: '67'
+      langcode: tr
+      name: 'sokağa çıkma yasağı'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 68ac7fb6-4e06-4092-81cb-0924e1a23625
+    -
+      vid: tags
+      tid: '333'
+      langcode: tr
+      name: 'sokağa çıkma yasakları'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 5c16ccc6-0b12-4ac9-9b84-8668b2e40ec4
+    -
+      vid: tags
+      tid: '334'
+      langcode: tr
+      name: 'son dakika'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: b8c9017e-f4d2-484f-a3d8-25e7bbc9cc9f
+    -
+      vid: tags
+      tid: '10'
+      langcode: tr
+      name: SP
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 42f2629f-0438-4132-bfcd-df9ec1fe63fc
+    -
+      vid: tags
+      tid: '309'
+      langcode: tr
+      name: SPK
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 40c6285d-b0d0-48fa-9651-0b3e5489cfd9
+    -
+      vid: tags
+      tid: '161'
+      langcode: tr
+      name: 'süleyman soylu'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 5f2ed4ac-f151-42ba-9838-14f43a4b7547
+    -
+      vid: tags
+      tid: '365'
+      langcode: tr
+      name: 'Suudi Petrolleri'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: a03b10fd-9b64-4230-a4dc-bd8342201f99
+    -
+      vid: tags
+      tid: '279'
+      langcode: tr
+      name: tadelle
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 823a8b01-5374-47b9-a854-174684f02a7e
+    -
+      vid: tags
+      tid: '235'
+      langcode: tr
+      name: tahvil
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 86d84706-d87a-4d13-8cf8-6a828298243f
+    -
+      vid: tags
+      tid: '182'
+      langcode: tr
+      name: 'tahvil ihracı'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 214d934d-617a-40c5-ad55-230bd43f0b2e
+    -
+      vid: tags
+      tid: '345'
+      langcode: tr
+      name: 'takas bank'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: b9e605a7-bc7f-4760-8dd5-7c3678eb2baa
+    -
+      vid: tags
+      tid: '322'
+      langcode: tr
+      name: 'Tam Kapanma'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 54d900b2-0d7b-4ad9-b20d-b5136d7a6bbf
+    -
+      vid: tags
+      tid: '254'
+      langcode: tr
+      name: tbb
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 2aea1caf-7283-48d5-b299-7dc3e9c53afe
+    -
+      vid: tags
+      tid: '32'
+      langcode: tr
+      name: tcmb
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 2120a3dd-25fc-4257-89ce-268397105d2f
+    -
+      vid: tags
+      tid: '342'
+      langcode: tr
+      name: teknoloji
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: d061e880-ff21-4545-959e-c19c20f2def8
+    -
+      vid: tags
+      tid: '84'
+      langcode: tr
+      name: 'temel karamollaoğlu'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 454a8210-af39-4237-a03f-1cd4a82c1050
+    -
+      vid: tags
+      tid: '57'
+      langcode: tr
+      name: TESLA
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 28e4d180-c7fa-4163-b86d-5bcde50c33f7
+    -
+      vid: tags
+      tid: '64'
+      langcode: tr
+      name: 'teşvik paketi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: ffafe058-1e2a-4993-a759-b9bd98bc8eb8
+    -
+      vid: tags
+      tid: '77'
+      langcode: tr
+      name: 'the times'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: d0d25cf3-0803-4ebb-85b3-b04f38b0579b
+    -
+      vid: tags
+      tid: '298'
+      langcode: tr
+      name: THODEX
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 25309fec-fba2-4968-baad-4a062c82f965
+    -
+      vid: tags
+      tid: '301'
+      langcode: tr
+      name: THY
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 80351b30-7f98-470b-8b43-834988a3577c
+    -
+      vid: tags
+      tid: '288'
+      langcode: tr
+      name: 'ticaret bakanı'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: aff5283a-5006-4d4a-a1a2-343fea56be62
+    -
+      vid: tags
+      tid: '117'
+      langcode: tr
+      name: 'ticari kredi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 03f0a980-a8e1-4d56-8122-a2591d58ab01
+    -
+      vid: tags
+      tid: '156'
+      langcode: tr
+      name: Time
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: c5d92a72-bf10-4133-b0e8-2be5f5fcea71
+    -
+      vid: tags
+      tid: '25'
+      langcode: tr
+      name: trump
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 73670400-310f-4e10-ad02-47e0f5b7585b
+    -
+      vid: tags
+      tid: '163'
+      langcode: tr
+      name: 'Tuğrul Türkeş'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 35e8294d-0647-42e7-a7c4-34f6719d7c41
+    -
+      vid: tags
+      tid: '95'
+      langcode: tr
+      name: TÜİK
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 93b24be0-79cd-4f5e-8729-203ac368d991
+    -
+      vid: tags
+      tid: '138'
+      langcode: tr
+      name: 'tüketici güven endeksi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 63259164-ed9c-4c14-8461-4f2d4baa61d8
+    -
+      vid: tags
+      tid: '242'
+      langcode: tr
+      name: turizm
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: d1868891-86cc-4df3-aa28-d006fb667526
+    -
+      vid: tags
+      tid: '244'
+      langcode: tr
+      name: 'turizm geliri'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: a7aacf6a-4834-4773-a4cb-1a966cce8220
+    -
+      vid: tags
+      tid: '175'
+      langcode: tr
+      name: 'türk lirası'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 1ea7ae70-7415-427a-a3c3-7fd62d1086d5
+    -
+      vid: tags
+      tid: '221'
+      langcode: tr
+      name: 'Türk tahvilleri'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: bb24da90-7eed-429d-9aa8-0483e2a22592
+    -
+      vid: tags
+      tid: '59'
+      langcode: tr
+      name: türkiye
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: adf8236b-553c-4eac-9783-bb7e500588a5
+    -
+      vid: tags
+      tid: '53'
+      langcode: tr
+      name: 'türkiye abd ilişkileri'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: ae078ece-f5b9-4c72-a46a-5b52e6c0247b
+    -
+      vid: tags
+      tid: '377'
+      langcode: tr
+      name: 'Türkiye Bankalar Birliği'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: ab7019dd-2a6e-44cc-944d-6ff794e9a25a
+    -
+      vid: tags
+      tid: '234'
+      langcode: tr
+      name: 'türkiye cumhuriyeti merkez bankası'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 11955c21-8213-4bf0-bd7b-063621eadbd7
+    -
+      vid: tags
+      tid: '213'
+      langcode: tr
+      name: 'türkiye dış politikası'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 07e9aad6-2a9e-4aec-a6d6-128ae0701fb8
+    -
+      vid: tags
+      tid: '243'
+      langcode: tr
+      name: 'türkiye ekonomisi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 4c486b53-5143-4720-a01a-5c76af3dbe75
+    -
+      vid: tags
+      tid: '226'
+      langcode: tr
+      name: 'Türkiye İstatistik Kurumu'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 3efbb50d-acf5-49ee-b3e2-97c8c0945b8d
+    -
+      vid: tags
+      tid: '52'
+      langcode: tr
+      name: 'türkiye rusya ilişkileri'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: e623eaf3-afcf-441f-8106-b74727dd59fc
+    -
+      vid: tags
+      tid: '44'
+      langcode: tr
+      name: 'türkiye varlık fonu'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: dd3a44e6-ceaf-4807-843a-fe66c3a90a21
+    -
+      vid: tags
+      tid: '203'
+      langcode: tr
+      name: 'türkiye yunanistan görüşmeleri'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 91286307-80f1-446b-8aaf-8be28cf0c6b9
+    -
+      vid: tags
+      tid: '380'
+      langcode: tr
+      name: TURSAB
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 8b9a05f9-cf64-46f8-8c9b-b19c86ee6700
+    -
+      vid: tags
+      tid: '356'
+      langcode: tr
+      name: tüsiad
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: a235edb1-053f-4149-9936-ebffc9076830
+    -
+      vid: tags
+      tid: '294'
+      langcode: tr
+      name: UBS
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: ed297efb-19b3-47fe-aaf8-be83a02712a5
+    -
+      vid: tags
+      tid: '360'
+      langcode: tr
+      name: 'uçak yolculuğu'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 4d19f698-62e9-4668-a0db-326946bba2e1
+    -
+      vid: tags
+      tid: '352'
+      langcode: tr
+      name: 'ücretsiz izin'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 8448660d-ad73-4585-b0a8-63b79b53295c
+    -
+      vid: tags
+      tid: '290'
+      langcode: tr
+      name: ukrayna
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 5b261ff1-4db7-49a2-bdde-6f02d1b31f91
+    -
+      vid: tags
+      tid: '91'
+      langcode: tr
+      name: 'ukrayna ithalat'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: b788eac8-5655-4531-8014-93d62120628b
+    -
+      vid: tags
+      tid: '104'
+      langcode: tr
+      name: 'ümit özdağ'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 01d7765e-eb06-4ea6-9b23-f727d9fba0b1
+    -
+      vid: tags
+      tid: '133'
+      langcode: tr
+      name: üretim
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 56b246ab-d927-4854-839a-d5dafd191e29
+    -
+      vid: tags
+      tid: '139'
+      langcode: tr
+      name: uyp
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: ee87a0ad-9e2a-462f-96f3-962e026700b0
+    -
+      vid: tags
+      tid: '186'
+      langcode: tr
+      name: Vakıfbank
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 25449262-1021-45b6-a5ef-01559f1b5c1a
+    -
+      vid: tags
+      tid: '230'
+      langcode: tr
+      name: 'varlık fonu borcu'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: d2e023f3-0451-48ef-907a-92c7875fb0aa
+    -
+      vid: tags
+      tid: '85'
+      langcode: tr
+      name: 'Vatan Partisi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: b5496d20-d0e9-46c3-9580-02a3e5c5934f
+    -
+      vid: tags
+      tid: '277'
+      langcode: tr
+      name: vergi
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 53989c52-4ff0-49ac-b4c8-22a8562c0bcb
+    -
+      vid: tags
+      tid: '192'
+      langcode: tr
+      name: 'yabancı yatırımcı'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: e85de0d9-8337-448e-8c58-e67f150931a6
+    -
+      vid: tags
+      tid: '339'
+      langcode: tr
+      name: 'yağ fiyatları'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 7ad01a39-813e-4e8a-afe3-35f0a1da4ff7
+    -
+      vid: tags
+      tid: '183'
+      langcode: tr
+      name: 'Yapı Kredi'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 7baa9913-f12b-4355-bde2-b87dd35e1cce
+    -
+      vid: tags
+      tid: '363'
+      langcode: tr
+      name: yardım
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 84835037-e1e7-4501-92d6-f13b1c38f103
+    -
+      vid: tags
+      tid: '100'
+      langcode: tr
+      name: yatırım
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: afccaae1-4ffa-473d-8142-eaa2b834b967
+    -
+      vid: tags
+      tid: '152'
+      langcode: tr
+      name: 'yemin töreni'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 14568130-0323-425e-aad2-cd5e65db0731
+    -
+      vid: tags
+      tid: '124'
+      langcode: tr
+      name: yeniçağ
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 78da1413-f583-4a90-afb9-564fcb8025a3
+    -
+      vid: tags
+      tid: '332'
+      langcode: tr
+      name: 'yoksulluk sınırı'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 308cb237-f182-4b36-b352-f89055e9c261
+    -
+      vid: tags
+      tid: '143'
+      langcode: tr
+      name: yunanistan
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 3375933d-d564-4a5e-8961-5940cee91353
+    -
+      vid: tags
+      tid: '347'
+      langcode: tr
+      name: zam
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: acb66e6c-be13-452e-a033-7159ebc56ca4
+    -
+      vid: tags
+      tid: '172'
+      langcode: tr
+      name: zarar
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 180a49b0-23c8-4660-8586-d23f7980e69a
+    -
+      vid: tags
+      tid: '308'
+      langcode: tr
+      name: zelesinsky
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 0a73e99c-8c92-430f-9d68-fcd338643f1e
+    -
+      vid: tags
+      tid: '185'
+      langcode: tr
+      name: 'Ziraat Bankası'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 828fc294-cb34-48b8-a712-0281532aa9d6
+blocks:
+  -
+    info: 'Tasarım Bilgisi'
+    langcode: tr
+    uuid: b838649e-e0f4-4430-92b7-e9aa49a85064
+    bundle: basic
+    revision_id: null
+    rev_id_current: null
+    fields:
+      body:
+        -
+          value: "<p>Tasarım <a href=\"https://www.etibilisim.com\">Eti Bilişim</a> © Copyright 2020 Avrasya Yatırım</p>\r\n"
+          summary: ''
+          format: basic_html
+  -
+    info: 'Yasal Uyarı'
+    langcode: tr
+    uuid: b0817353-ec1a-4c02-864d-b6c1f3bf1d0f
+    bundle: basic
+    revision_id: null
+    rev_id_current: null
+    fields:
+      body:
+        -
+          value: "<p>Burada yer alan yatırım bilgi, yorum ve tavsiyeleri yatırım danışmanlığı kapsamında değildir. Yatırım danışmanlığı hizmeti, aracı kurumlar, portföy yönetim şirketleri, mevduat kabul etmeyen bankalar ile müşteri arasında imzalanacak yatırım danışmanlığı sözleşmesi çerçevesinde sunulmaktadır. Burada yer alan yorum ve tavsiyeler, yorum ve tavsiyede bulunanların kişisel görüşlerine dayanmaktadır. Bu görüşler, mali durumunuz ile risk ve getiri tercihlerinize uygun olmayabilir. Bu nedenle, sadece burada yer alan bilgilere dayanılarak yatırım kararı verilmesi, beklentilerinize uygun sonuçlar doğurmayabilir.</p>\r\n\r\n<p>Videolara istinaden her türlü özel ve/veya tüzel kişiler tarafından alınacak kararlar, varılacak sonuçlar ve oluşabilecek her türlü riskler izleyenlere ait olacaktır. Hiçbir şekil ve surette ve her ne nam altında olursa olsun, her türlü gerçek ve/veya tüzel kişinin gerek doğrudan gerek dolayısı ile uğrayacağı maddi ve/veya manevi zararından Avrasya Yatırım sorumlu değildir.</p>\r\n"
+          summary: ''
+          format: basic_html
+  -
+    info: 'Twitter Blok'
+    langcode: tr
+    uuid: c1056a61-af36-43f2-8442-0c99e5e0db88
+    bundle: basic
+    revision_id: null
+    rev_id_current: null
+    fields:
+      body:
+        -
+          value: "<p><a class=\"twitter-timeline\" data-height=\"400\" href=\"https://twitter.com/Avrasya_Yatirim?ref_src=twsrc%5Etfw\">Avrasya_Yatirim</a> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\r\n"
+          summary: ''
+          format: full_html
+menus:
+  -
+    menu_name: footer
+    title: İletişim
+    parent: null
+    uri: 'entity:node/27'
+    link_title: ''
+    description: null
+    enabled: '1'
+    expanded: '0'
+    weight: '0'
+    langcode: tr
+    uuid: b667bf35-36c6-4e45-9d7d-94c8b3eb2022
+  -
+    menu_name: main
+    title: İletişim
+    parent: null
+    uri: 'entity:node/27'
+    link_title: null
+    description: null
+    enabled: '1'
+    expanded: '0'
+    weight: '-44'
+    langcode: tr
+    uuid: dbb53093-b96e-455d-93d3-6e773ec181d3
+  -
+    menu_name: main
+    title: Haberler
+    parent: null
+    uri: 'route:<nolink>'
+    link_title: ''
+    description: null
+    enabled: '1'
+    expanded: '1'
+    weight: '-46'
+    langcode: tr
+    uuid: 8abb7d80-b51a-4aa8-8644-db711837324b
+  -
+    menu_name: borsa-egitimi
+    title: 'Eğitimin Üstün Yanları'
+    parent: null
+    uri: 'entity:node/26'
+    link_title: null
+    description: null
+    enabled: '1'
+    expanded: '0'
+    weight: '-47'
+    langcode: tr
+    uuid: f4020d24-638b-4502-a534-1da46a289b5f
+  -
+    menu_name: borsa-egitimi
+    title: 'Eğitmen Hakkında'
+    parent: null
+    uri: 'entity:node/25'
+    link_title: null
+    description: null
+    enabled: '1'
+    expanded: '0'
+    weight: '-48'
+    langcode: tr
+    uuid: ce719452-5e5e-4fdb-bc2a-55b39f8b07a1
+  -
+    menu_name: borsa-egitimi
+    title: 'Borsa Eğitimi neden var?'
+    parent: null
+    uri: 'entity:node/23'
+    link_title: null
+    description: null
+    enabled: '1'
+    expanded: '0'
+    weight: '-50'
+    langcode: tr
+    uuid: eb072ca3-528c-4d65-8506-f00bad05cc76
+  -
+    menu_name: borsa-egitimi
+    title: 'Eğitimin İçeriği'
+    parent: null
+    uri: 'entity:node/24'
+    link_title: null
+    description: null
+    enabled: '1'
+    expanded: '0'
+    weight: '-49'
+    langcode: tr
+    uuid: 6e97a487-377f-4214-8733-46b4a3ed3bbd
+  -
+    menu_name: borsa-egitimi
+    title: 'Eğitim Başvurusu'
+    parent: null
+    uri: 'entity:node/38'
+    link_title: null
+    description: null
+    enabled: '1'
+    expanded: '0'
+    weight: '50'
+    langcode: tr
+    uuid: b2ca8043-e57f-4ed5-be37-508e23d2ff1a

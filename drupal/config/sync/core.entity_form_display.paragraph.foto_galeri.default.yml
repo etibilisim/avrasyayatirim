@@ -1,0 +1,26 @@
+uuid: 9d2cb843-ee59-4fa4-b76c-9310a6b9a49c
+langcode: tr
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.foto_galeri.field_galeri_gorseli
+    - image.style.thumbnail
+    - paragraphs.paragraphs_type.foto_galeri
+  module:
+    - image
+id: paragraph.foto_galeri.default
+targetEntityType: paragraph
+bundle: foto_galeri
+mode: default
+content:
+  field_galeri_gorseli:
+    weight: 0
+    settings:
+      progress_indicator: throbber
+      preview_image_style: thumbnail
+    third_party_settings: {  }
+    type: image_image
+    region: content
+hidden:
+  created: true
+  status: true

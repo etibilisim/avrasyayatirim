@@ -1,0 +1,8 @@
+uuid: 4c566ef3-6e84-4a29-8d87-7f110c346d4c
+langcode: tr
+status: true
+dependencies: {  }
+name: 'Analiz Türleri'
+vid: analiz_turleri
+description: ''
+weight: 0

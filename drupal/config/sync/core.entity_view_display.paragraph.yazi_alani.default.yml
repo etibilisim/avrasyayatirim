@@ -1,0 +1,22 @@
+uuid: cee95cdf-ad6b-4331-aba7-af4639e5d66f
+langcode: tr
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.yazi_alani.field_yazi_alani
+    - paragraphs.paragraphs_type.yazi_alani
+  module:
+    - text
+id: paragraph.yazi_alani.default
+targetEntityType: paragraph
+bundle: yazi_alani
+mode: default
+content:
+  field_yazi_alani:
+    weight: 0
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: content
+hidden: {  }

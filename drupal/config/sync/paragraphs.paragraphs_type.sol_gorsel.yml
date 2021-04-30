@@ -1,0 +1,10 @@
+uuid: c901a4a6-b27f-41de-a0e2-51802c5f274f
+langcode: tr
+status: true
+dependencies: {  }
+id: sol_gorsel
+label: 'Sol Görsel'
+icon_uuid: null
+icon_default: null
+description: ''
+behavior_plugins: {  }

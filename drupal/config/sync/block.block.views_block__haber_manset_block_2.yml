@@ -1,0 +1,30 @@
+uuid: bfe845d7-32f0-411e-b64e-fbed63f18fb1
+langcode: tr
+status: true
+dependencies:
+  config:
+    - views.view.haber_manset
+  module:
+    - system
+    - views
+  theme:
+    - conference_lite
+id: views_block__haber_manset_block_2
+theme: conference_lite
+region: content_top
+weight: 0
+provider: null
+plugin: 'views_block:haber_manset-block_2'
+settings:
+  id: 'views_block:haber_manset-block_2'
+  label: ''
+  provider: views
+  label_display: '0'
+  views_label: ''
+  items_per_page: none
+visibility:
+  request_path:
+    id: request_path
+    pages: '<front>'
+    negate: false
+    context_mapping: {  }

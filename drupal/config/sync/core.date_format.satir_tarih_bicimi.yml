@@ -1,0 +1,8 @@
+uuid: f43ed791-ae7f-4f69-8c74-ad794c637981
+langcode: tr
+status: true
+dependencies: {  }
+id: satir_tarih_bicimi
+label: 'Satır Tarih Biçimi'
+locked: false
+pattern: 'd M Y'

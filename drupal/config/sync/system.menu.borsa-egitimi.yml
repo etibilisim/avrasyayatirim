@@ -1,0 +1,13 @@
+uuid: 45d12707-0c04-4737-9e2a-a3875c66c661
+langcode: tr
+status: true
+dependencies:
+  module:
+    - sitemap
+third_party_settings:
+  sitemap:
+    sitemap_display_name: borsa-egitimi
+id: borsa-egitimi
+label: 'Borsa Eğitimi'
+description: ''
+locked: false

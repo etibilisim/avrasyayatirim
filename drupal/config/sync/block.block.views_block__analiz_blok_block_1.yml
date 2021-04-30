@@ -1,0 +1,30 @@
+uuid: 71d65982-2466-4848-a490-86808131b2d9
+langcode: tr
+status: true
+dependencies:
+  config:
+    - views.view.analiz_blok
+  module:
+    - system
+    - views
+  theme:
+    - conference_lite
+id: views_block__analiz_blok_block_1
+theme: conference_lite
+region: content_top
+weight: 0
+provider: null
+plugin: 'views_block:analiz_blok-block_1'
+settings:
+  id: 'views_block:analiz_blok-block_1'
+  label: ''
+  provider: views
+  label_display: '0'
+  views_label: ''
+  items_per_page: none
+visibility:
+  request_path:
+    id: request_path
+    pages: '<front>'
+    negate: false
+    context_mapping: {  }

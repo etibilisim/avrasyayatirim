@@ -1,0 +1,14 @@
+uuid: adc0a616-8523-44f8-ae01-bb783f00a460
+langcode: tr
+status: true
+dependencies:
+  module:
+    - user
+id: kullanici_url_yol_ayari
+label: 'Kullanıcı URL Yol Ayarı'
+type: 'canonical_entities:user'
+pattern: 'kullanici/[user:name]'
+selection_criteria: {  }
+selection_logic: and
+weight: 0
+relationships: {  }

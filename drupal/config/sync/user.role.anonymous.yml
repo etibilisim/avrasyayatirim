@@ -1,0 +1,23 @@
+uuid: 8dff022a-d8dc-43d5-b536-cdb954675cb8
+langcode: tr
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: pq_mEIu_B4widZN7Ap81iCJSjShFFdcL0jEiCi8VrDk
+id: anonymous
+label: 'Konuk kullanıcı'
+weight: 0
+is_admin: false
+permissions:
+  - 'access comments'
+  - 'access content'
+  - 'access site-wide contact form'
+  - 'search content'
+  - 'use text format restricted_html'
+  - 'view media'
+  - 'view paragraph content foto_galeri'
+  - 'view paragraph content orta_gorsel'
+  - 'view paragraph content sag_gorsel'
+  - 'view paragraph content sol_gorsel'
+  - 'view paragraph content video_url'
+  - 'view paragraph content yazi_alani'

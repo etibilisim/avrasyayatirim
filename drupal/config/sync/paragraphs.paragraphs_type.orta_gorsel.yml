@@ -1,0 +1,10 @@
+uuid: 27850918-6db1-49dd-9120-644b2d131e45
+langcode: tr
+status: true
+dependencies: {  }
+id: orta_gorsel
+label: 'Orta Görsel'
+icon_uuid: null
+icon_default: null
+description: ''
+behavior_plugins: {  }

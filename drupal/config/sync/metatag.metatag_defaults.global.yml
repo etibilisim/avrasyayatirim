@@ -1,0 +1,11 @@
+uuid: 7166c7c0-84ff-4970-b39d-3e1e96bc70ab
+langcode: tr
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: sL588ui1E_8-2c_UupwyYxcqX2OVyMFp3HTLbbFqvPc
+id: global
+label: Genel
+tags:
+  canonical_url: '[current-page:url]'
+  title: '[current-page:title] | [site:name]'

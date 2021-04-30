@@ -1,0 +1,22 @@
+uuid: 835d8c70-863c-4533-9265-2ad410f9c43b
+langcode: tr
+status: true
+dependencies:
+  module:
+    - node
+id: makale_url_yol_ayari
+label: 'Makale URL Yol Ayarı'
+type: 'canonical_entities:node'
+pattern: 'gorus/[node:title]'
+selection_criteria:
+  463afc12-d376-4eac-9516-b1b14981d9d0:
+    id: node_type
+    bundles:
+      article: article
+    negate: false
+    context_mapping:
+      node: node
+    uuid: 463afc12-d376-4eac-9516-b1b14981d9d0
+selection_logic: and
+weight: -5
+relationships: {  }

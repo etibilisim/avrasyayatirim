@@ -1,0 +1,24 @@
+uuid: 986dd444-6065-4715-a547-89c07790cf65
+langcode: tr
+status: true
+dependencies:
+  config:
+    - views.view.en_cok_goruntulenenler
+  module:
+    - views
+  theme:
+    - conference_lite
+id: views_block__en_cok_goruntulenenler_block_1
+theme: conference_lite
+region: hidden_blocks_collection
+weight: -9
+provider: null
+plugin: 'views_block:en_cok_goruntulenenler-block_1'
+settings:
+  id: 'views_block:en_cok_goruntulenenler-block_1'
+  label: ''
+  provider: views
+  label_display: visible
+  views_label: ''
+  items_per_page: none
+visibility: {  }
