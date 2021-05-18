@@ -6,6 +6,8 @@
 /drupal/web/modules/contrib/
 /drupal/web/themes/contrib/
 /drupal/web/profiles/contrib/
+/drupal/web/*.sql
+/drupal/web/*.sql.zip
 
 # Ignore sensitive information
 /drupal/web/sites/*/settings.php
