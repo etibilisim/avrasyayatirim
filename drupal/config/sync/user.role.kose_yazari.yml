@@ -1,0 +1,9 @@
+uuid: bb4e86fb-018a-41ca-ace9-e1c9b88f7397
+langcode: tr
+status: true
+dependencies: {  }
+id: kose_yazari
+label: 'Köşe Yazarı'
+weight: 3
+is_admin: null
+permissions: {  }

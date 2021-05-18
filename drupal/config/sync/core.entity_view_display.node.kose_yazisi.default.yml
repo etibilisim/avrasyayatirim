@@ -1,0 +1,30 @@
+uuid: 356d4998-bf8c-4ff4-83d7-f2b92b7999ac
+langcode: tr
+status: true
+dependencies:
+  config:
+    - field.field.node.kose_yazisi.body
+    - node.type.kose_yazisi
+  module:
+    - text
+    - user
+id: node.kose_yazisi.default
+targetEntityType: node
+bundle: kose_yazisi
+mode: default
+content:
+  body:
+    weight: 101
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: content
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden:
+  addtoany: true
+  langcode: true

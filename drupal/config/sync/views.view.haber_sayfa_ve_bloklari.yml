@@ -1194,7 +1194,7 @@ display:
   block_1:
     display_plugin: block
     id: block_1
-    display_title: 'Siyaset Blok'
+    display_title: 'Güncel Blok'
     position: 2
     display_options:
       display_extenders: {  }
@@ -1546,7 +1546,7 @@ display:
           entity_type: node
           entity_field: nid
           plugin_id: field
-      title: Siyaset
+      title: Güncel
       filters:
         status:
           value: '1'
@@ -2084,19 +2084,22 @@ display:
   page_1:
     display_plugin: page
     id: page_1
-    display_title: 'Siyaset Sayfa'
+    display_title: 'Güncel Sayfa'
     position: 1
     display_options:
       display_extenders: {  }
-      path: haber/siyaset
+      path: haber/guncel
       menu:
         type: normal
-        title: Siyaset
-        menu_name: main
-        weight: -49
+        title: Güncel
+        description: ''
+        expanded: false
         parent: 'menu_link_content:8abb7d80-b51a-4aa8-8644-db711837324b'
+        weight: -49
+        context: '0'
+        menu_name: main
       display_description: ''
-      title: Siyaset
+      title: Güncel
       defaults:
         title: false
         filters: false

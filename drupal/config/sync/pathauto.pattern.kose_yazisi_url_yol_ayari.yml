@@ -1,0 +1,22 @@
+uuid: 5c65d398-de90-4047-a6e4-a664fb624d15
+langcode: tr
+status: true
+dependencies:
+  module:
+    - node
+id: kose_yazisi_url_yol_ayari
+label: 'Köşe Yazısı URL Yol Ayarı'
+type: 'canonical_entities:node'
+pattern: 'kose-yazilari/[node:title]'
+selection_criteria:
+  b13208d1-b379-4f3f-8cb8-33d83145b4fd:
+    id: node_type
+    bundles:
+      kose_yazisi: kose_yazisi
+    negate: false
+    context_mapping:
+      node: node
+    uuid: b13208d1-b379-4f3f-8cb8-33d83145b4fd
+selection_logic: and
+weight: -5
+relationships: {  }

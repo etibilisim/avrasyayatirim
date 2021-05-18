@@ -1,0 +1,14 @@
+uuid: 50c4e5ff-6445-4932-b5a2-18f4cfe21bb8
+langcode: tr
+status: true
+dependencies:
+  config:
+    - user.role.kose_yazari
+  module:
+    - user
+id: user_remove_role_action.kose_yazari
+label: 'Köşe Yazarı rolünü seçili kullanıcı(lar)dan alın.'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: kose_yazari

@@ -12,7 +12,7 @@ dependencies:
 id: twitterblok
 theme: conference_lite
 region: sidebar_second
-weight: 0
+weight: -11
 provider: null
 plugin: 'block_content:c1056a61-af36-43f2-8442-0c99e5e0db88'
 settings:
