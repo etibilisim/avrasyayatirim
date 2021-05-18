@@ -252,7 +252,8 @@ display:
         type: normal
         title: 'Video Arşivi'
         menu_name: main
-        weight: -45
+        weight: -44
+        enabled: false
       pager:
         type: full
         options:

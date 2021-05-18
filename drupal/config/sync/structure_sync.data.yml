@@ -1,3 +1,140 @@
+menus:
+  -
+    menu_name: footer
+    title: İletişim
+    parent: null
+    uri: 'entity:node/27'
+    link_title: ''
+    description: null
+    enabled: '1'
+    expanded: '0'
+    weight: '0'
+    langcode: tr
+    uuid: b667bf35-36c6-4e45-9d7d-94c8b3eb2022
+  -
+    menu_name: main
+    title: İletişim
+    parent: null
+    uri: 'entity:node/27'
+    link_title: null
+    description: null
+    enabled: '1'
+    expanded: '0'
+    weight: '-43'
+    langcode: tr
+    uuid: dbb53093-b96e-455d-93d3-6e773ec181d3
+  -
+    menu_name: main
+    title: Haberler
+    parent: null
+    uri: 'route:<nolink>'
+    link_title: ''
+    description: null
+    enabled: '1'
+    expanded: '1'
+    weight: '-46'
+    langcode: tr
+    uuid: 8abb7d80-b51a-4aa8-8644-db711837324b
+  -
+    menu_name: borsa-egitimi
+    title: 'Eğitimin Üstün Yanları'
+    parent: null
+    uri: 'entity:node/26'
+    link_title: null
+    description: null
+    enabled: '1'
+    expanded: '0'
+    weight: '-47'
+    langcode: tr
+    uuid: f4020d24-638b-4502-a534-1da46a289b5f
+  -
+    menu_name: borsa-egitimi
+    title: 'Eğitmen Hakkında'
+    parent: null
+    uri: 'entity:node/25'
+    link_title: null
+    description: null
+    enabled: '1'
+    expanded: '0'
+    weight: '-48'
+    langcode: tr
+    uuid: ce719452-5e5e-4fdb-bc2a-55b39f8b07a1
+  -
+    menu_name: borsa-egitimi
+    title: 'Borsa Eğitimi neden var?'
+    parent: null
+    uri: 'entity:node/23'
+    link_title: null
+    description: null
+    enabled: '1'
+    expanded: '0'
+    weight: '-50'
+    langcode: tr
+    uuid: eb072ca3-528c-4d65-8506-f00bad05cc76
+  -
+    menu_name: borsa-egitimi
+    title: 'Eğitimin İçeriği'
+    parent: null
+    uri: 'entity:node/24'
+    link_title: null
+    description: null
+    enabled: '1'
+    expanded: '0'
+    weight: '-49'
+    langcode: tr
+    uuid: 6e97a487-377f-4214-8733-46b4a3ed3bbd
+  -
+    menu_name: borsa-egitimi
+    title: 'Eğitim Başvurusu'
+    parent: null
+    uri: 'entity:node/38'
+    link_title: null
+    description: null
+    enabled: '1'
+    expanded: '0'
+    weight: '50'
+    langcode: tr
+    uuid: b2ca8043-e57f-4ed5-be37-508e23d2ff1a
+blocks:
+  -
+    info: 'Tasarım Bilgisi'
+    langcode: tr
+    uuid: b838649e-e0f4-4430-92b7-e9aa49a85064
+    bundle: basic
+    revision_id: null
+    rev_id_current: null
+    fields:
+      body:
+        -
+          value: "<p>Tasarım <a href=\"https://www.etibilisim.com\">Eti Bilişim</a> © Copyright 2020 Avrasya Yatırım</p>\r\n"
+          summary: ''
+          format: basic_html
+  -
+    info: 'Yasal Uyarı'
+    langcode: tr
+    uuid: b0817353-ec1a-4c02-864d-b6c1f3bf1d0f
+    bundle: basic
+    revision_id: null
+    rev_id_current: null
+    fields:
+      body:
+        -
+          value: "<p>Burada yer alan yatırım bilgi, yorum ve tavsiyeleri yatırım danışmanlığı kapsamında değildir. Yatırım danışmanlığı hizmeti, aracı kurumlar, portföy yönetim şirketleri, mevduat kabul etmeyen bankalar ile müşteri arasında imzalanacak yatırım danışmanlığı sözleşmesi çerçevesinde sunulmaktadır. Burada yer alan yorum ve tavsiyeler, yorum ve tavsiyede bulunanların kişisel görüşlerine dayanmaktadır. Bu görüşler, mali durumunuz ile risk ve getiri tercihlerinize uygun olmayabilir. Bu nedenle, sadece burada yer alan bilgilere dayanılarak yatırım kararı verilmesi, beklentilerinize uygun sonuçlar doğurmayabilir.</p>\r\n\r\n<p>Videolara istinaden her türlü özel ve/veya tüzel kişiler tarafından alınacak kararlar, varılacak sonuçlar ve oluşabilecek her türlü riskler izleyenlere ait olacaktır. Hiçbir şekil ve surette ve her ne nam altında olursa olsun, her türlü gerçek ve/veya tüzel kişinin gerek doğrudan gerek dolayısı ile uğrayacağı maddi ve/veya manevi zararından Avrasya Yatırım sorumlu değildir.</p>\r\n"
+          summary: ''
+          format: basic_html
+  -
+    info: 'Twitter Blok'
+    langcode: tr
+    uuid: c1056a61-af36-43f2-8442-0c99e5e0db88
+    bundle: basic
+    revision_id: null
+    rev_id_current: null
+    fields:
+      body:
+        -
+          value: "<p><a class=\"twitter-timeline\" data-height=\"400\" href=\"https://twitter.com/Avrasya_Yatirim?ref_src=twsrc%5Etfw\">Avrasya_Yatirim</a> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\r\n"
+          summary: ''
+          format: full_html
 taxonomies:
   analiz_turleri:
     -
@@ -3932,140 +4069,3 @@ taxonomies:
       weight: '0'
       parent: '0'
       uuid: f8a7d6b9-8b80-48cc-bf52-4da0a8f5e6c5
-blocks:
-  -
-    info: 'Tasarım Bilgisi'
-    langcode: tr
-    uuid: b838649e-e0f4-4430-92b7-e9aa49a85064
-    bundle: basic
-    revision_id: null
-    rev_id_current: null
-    fields:
-      body:
-        -
-          value: "<p>Tasarım <a href=\"https://www.etibilisim.com\">Eti Bilişim</a> © Copyright 2020 Avrasya Yatırım</p>\r\n"
-          summary: ''
-          format: basic_html
-  -
-    info: 'Yasal Uyarı'
-    langcode: tr
-    uuid: b0817353-ec1a-4c02-864d-b6c1f3bf1d0f
-    bundle: basic
-    revision_id: null
-    rev_id_current: null
-    fields:
-      body:
-        -
-          value: "<p>Burada yer alan yatırım bilgi, yorum ve tavsiyeleri yatırım danışmanlığı kapsamında değildir. Yatırım danışmanlığı hizmeti, aracı kurumlar, portföy yönetim şirketleri, mevduat kabul etmeyen bankalar ile müşteri arasında imzalanacak yatırım danışmanlığı sözleşmesi çerçevesinde sunulmaktadır. Burada yer alan yorum ve tavsiyeler, yorum ve tavsiyede bulunanların kişisel görüşlerine dayanmaktadır. Bu görüşler, mali durumunuz ile risk ve getiri tercihlerinize uygun olmayabilir. Bu nedenle, sadece burada yer alan bilgilere dayanılarak yatırım kararı verilmesi, beklentilerinize uygun sonuçlar doğurmayabilir.</p>\r\n\r\n<p>Videolara istinaden her türlü özel ve/veya tüzel kişiler tarafından alınacak kararlar, varılacak sonuçlar ve oluşabilecek her türlü riskler izleyenlere ait olacaktır. Hiçbir şekil ve surette ve her ne nam altında olursa olsun, her türlü gerçek ve/veya tüzel kişinin gerek doğrudan gerek dolayısı ile uğrayacağı maddi ve/veya manevi zararından Avrasya Yatırım sorumlu değildir.</p>\r\n"
-          summary: ''
-          format: basic_html
-  -
-    info: 'Twitter Blok'
-    langcode: tr
-    uuid: c1056a61-af36-43f2-8442-0c99e5e0db88
-    bundle: basic
-    revision_id: null
-    rev_id_current: null
-    fields:
-      body:
-        -
-          value: "<p><a class=\"twitter-timeline\" data-height=\"400\" href=\"https://twitter.com/Avrasya_Yatirim?ref_src=twsrc%5Etfw\">Avrasya_Yatirim</a> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\r\n"
-          summary: ''
-          format: full_html
-menus:
-  -
-    menu_name: footer
-    title: İletişim
-    parent: null
-    uri: 'entity:node/27'
-    link_title: ''
-    description: null
-    enabled: '1'
-    expanded: '0'
-    weight: '0'
-    langcode: tr
-    uuid: b667bf35-36c6-4e45-9d7d-94c8b3eb2022
-  -
-    menu_name: main
-    title: İletişim
-    parent: null
-    uri: 'entity:node/27'
-    link_title: null
-    description: null
-    enabled: '1'
-    expanded: '0'
-    weight: '-44'
-    langcode: tr
-    uuid: dbb53093-b96e-455d-93d3-6e773ec181d3
-  -
-    menu_name: main
-    title: Haberler
-    parent: null
-    uri: 'route:<nolink>'
-    link_title: ''
-    description: null
-    enabled: '1'
-    expanded: '1'
-    weight: '-46'
-    langcode: tr
-    uuid: 8abb7d80-b51a-4aa8-8644-db711837324b
-  -
-    menu_name: borsa-egitimi
-    title: 'Eğitimin Üstün Yanları'
-    parent: null
-    uri: 'entity:node/26'
-    link_title: null
-    description: null
-    enabled: '1'
-    expanded: '0'
-    weight: '-47'
-    langcode: tr
-    uuid: f4020d24-638b-4502-a534-1da46a289b5f
-  -
-    menu_name: borsa-egitimi
-    title: 'Eğitmen Hakkında'
-    parent: null
-    uri: 'entity:node/25'
-    link_title: null
-    description: null
-    enabled: '1'
-    expanded: '0'
-    weight: '-48'
-    langcode: tr
-    uuid: ce719452-5e5e-4fdb-bc2a-55b39f8b07a1
-  -
-    menu_name: borsa-egitimi
-    title: 'Borsa Eğitimi neden var?'
-    parent: null
-    uri: 'entity:node/23'
-    link_title: null
-    description: null
-    enabled: '1'
-    expanded: '0'
-    weight: '-50'
-    langcode: tr
-    uuid: eb072ca3-528c-4d65-8506-f00bad05cc76
-  -
-    menu_name: borsa-egitimi
-    title: 'Eğitimin İçeriği'
-    parent: null
-    uri: 'entity:node/24'
-    link_title: null
-    description: null
-    enabled: '1'
-    expanded: '0'
-    weight: '-49'
-    langcode: tr
-    uuid: 6e97a487-377f-4214-8733-46b4a3ed3bbd
-  -
-    menu_name: borsa-egitimi
-    title: 'Eğitim Başvurusu'
-    parent: null
-    uri: 'entity:node/38'
-    link_title: null
-    description: null
-    enabled: '1'
-    expanded: '0'
-    weight: '50'
-    langcode: tr
-    uuid: b2ca8043-e57f-4ed5-be37-508e23d2ff1a
