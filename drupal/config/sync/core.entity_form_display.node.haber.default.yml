@@ -3,6 +3,7 @@ langcode: tr
 status: true
 dependencies:
   config:
+    - field.field.node.haber.body
     - field.field.node.haber.field_aciklama
     - field.field.node.haber.field_aciklama_ozeti
     - field.field.node.haber.field_altina_etkisi
@@ -17,7 +18,6 @@ dependencies:
     - node.type.haber
   module:
     - image
-    - paragraphs
     - path
     - text
 id: node.haber.default
@@ -25,30 +25,22 @@ targetEntityType: node
 bundle: haber
 mode: default
 content:
+  body:
+    weight: 10
+    settings:
+      rows: 9
+      summary_rows: 3
+      placeholder: ''
+      show_summary: false
+    third_party_settings: {  }
+    type: text_textarea_with_summary
+    region: content
   created:
     type: datetime_timestamp
     weight: 3
     region: content
     settings: {  }
     third_party_settings: {  }
-  field_aciklama:
-    type: paragraphs
-    weight: 10
-    settings:
-      title: Paragraph
-      title_plural: Paragraphs
-      edit_mode: open
-      add_mode: dropdown
-      form_display_mode: default
-      default_paragraph_type: ''
-      closed_mode: summary
-      autocollapse: none
-      closed_mode_threshold: 0
-      features:
-        collapse_edit_all: collapse_edit_all
-        duplicate: duplicate
-    third_party_settings: {  }
-    region: content
   field_aciklama_ozeti:
     weight: 9
     settings:
@@ -113,7 +105,7 @@ content:
     type: image_image
     region: content
   field_one_cikan_icerik:
-    weight: 26
+    weight: 17
     settings:
       display_label: true
     third_party_settings: {  }
@@ -171,4 +163,5 @@ content:
       match_limit: 10
     region: content
     third_party_settings: {  }
-hidden: {  }
+hidden:
+  field_aciklama: true

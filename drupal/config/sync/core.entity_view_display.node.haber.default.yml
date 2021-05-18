@@ -3,6 +3,7 @@ langcode: tr
 status: true
 dependencies:
   config:
+    - field.field.node.haber.body
     - field.field.node.haber.field_aciklama
     - field.field.node.haber.field_aciklama_ozeti
     - field.field.node.haber.field_altina_etkisi
@@ -25,6 +26,13 @@ targetEntityType: node
 bundle: haber
 mode: default
 content:
+  body:
+    weight: 9
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: content
   field_aciklama:
     type: entity_reference_revisions_entity_view
     weight: 2

@@ -1,0 +1,23 @@
+uuid: 802592b5-0aa7-4916-bf3f-18661987e86d
+langcode: tr
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.analiz
+  module:
+    - text
+id: node.analiz.body
+field_name: body
+entity_type: node
+bundle: analiz
+label: 'Yazı Alanı'
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: true
+  required_summary: false
+field_type: text_with_summary

@@ -4,6 +4,7 @@ status: true
 dependencies:
   config:
     - core.entity_view_mode.node.teaser
+    - field.field.node.analiz.body
     - field.field.node.analiz.field_analiz_turu
     - field.field.node.analiz.field_one_cikan_gorsel
     - field.field.node.analiz.field_yazi_icerigi
@@ -22,6 +23,7 @@ content:
     region: content
 hidden:
   addtoany: true
+  body: true
   field_analiz_turu: true
   field_one_cikan_gorsel: true
   field_yazi_icerigi: true

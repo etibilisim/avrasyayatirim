@@ -3,6 +3,7 @@ langcode: tr
 status: true
 dependencies:
   config:
+    - field.field.node.analiz.body
     - field.field.node.analiz.field_analiz_turu
     - field.field.node.analiz.field_one_cikan_gorsel
     - field.field.node.analiz.field_yazi_icerigi
@@ -11,6 +12,7 @@ dependencies:
   module:
     - entity_reference_revisions
     - image
+    - text
     - user
 id: node.analiz.default
 targetEntityType: node
@@ -22,6 +24,13 @@ content:
     region: content
     settings: {  }
     third_party_settings: {  }
+  body:
+    weight: 5
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: content
   field_analiz_turu:
     weight: 4
     label: above

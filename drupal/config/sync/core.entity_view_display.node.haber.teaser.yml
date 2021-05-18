@@ -4,6 +4,7 @@ status: true
 dependencies:
   config:
     - core.entity_view_mode.node.teaser
+    - field.field.node.haber.body
     - field.field.node.haber.field_aciklama
     - field.field.node.haber.field_aciklama_ozeti
     - field.field.node.haber.field_altina_etkisi
@@ -29,6 +30,7 @@ content:
     region: content
 hidden:
   addtoany: true
+  body: true
   field_aciklama: true
   field_aciklama_ozeti: true
   field_altina_etkisi: true
