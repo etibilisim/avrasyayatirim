@@ -16,6 +16,7 @@
     ],
     "require": {
         "composer/installers": "^1.2",
+        "cweagans/composer-patches": "^1.7",
         "drupal/addtoany": "^1.15",
         "drupal/admin_toolbar": "^3.0",
         "drupal/advagg": "^4.1",
@@ -53,6 +54,12 @@
         "sort-packages": true
     },
     "extra": {
+        "enable-patching": true,
+        "patches": {
+            "drupal/google_analytics": {
+                "ga4 compatibility": "https://www.drupal.org/files/issues/2020-12-01/3178179-google-analytics-4.patch"
+            }
+        },
         "drupal-scaffold": {
             "locations": {
                 "web-root": "web/"
